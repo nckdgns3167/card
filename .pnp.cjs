@@ -42,6 +42,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-react-app", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:7.0.1"],\
           ["eslint-plugin-prettier", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:5.2.1"],\
           ["eslint-plugin-react", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:7.37.3"],\
+          ["firebase", "npm:11.1.0"],\
           ["prettier", "npm:3.4.2"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:19.0.0"],\
@@ -3561,6 +3562,1107 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@firebase/analytics", [\
+      ["npm:0.10.10", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-analytics-npm-0.10.10-393ae2268c-10c0.zip/node_modules/@firebase/analytics/",\
+        "packageDependencies": [\
+          ["@firebase/analytics", "npm:0.10.10"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:4b2475852d461cdc30bd869f48bdaeea67896f4fa435274c45509ef38b579cd5d0fd37c4fd257eef8450ad86670555d73ca613c6dcecab2bf566078363a711de#npm:0.10.10", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-analytics-virtual-7715af0f34/5/AppData/Local/Yarn/Berry/cache/@firebase-analytics-npm-0.10.10-393ae2268c-10c0.zip/node_modules/@firebase/analytics/",\
+        "packageDependencies": [\
+          ["@firebase/analytics", "virtual:4b2475852d461cdc30bd869f48bdaeea67896f4fa435274c45509ef38b579cd5d0fd37c4fd257eef8450ad86670555d73ca613c6dcecab2bf566078363a711de#npm:0.10.10"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:7715af0f340735f82adac212db26a4dd294db50e5a2a55080b3197d9c81898e40bf2b62713f02210c6c0f5f07ab29a7a70bc6d5e098ecf0b72d70b81effd7cf2#npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.10.10", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-analytics-virtual-5d932ec68a/5/AppData/Local/Yarn/Berry/cache/@firebase-analytics-npm-0.10.10-393ae2268c-10c0.zip/node_modules/@firebase/analytics/",\
+        "packageDependencies": [\
+          ["@firebase/analytics", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.10.10"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/analytics-compat", [\
+      ["npm:0.2.16", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-analytics-compat-npm-0.2.16-ea404b4cee-10c0.zip/node_modules/@firebase/analytics-compat/",\
+        "packageDependencies": [\
+          ["@firebase/analytics-compat", "npm:0.2.16"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.16", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-analytics-compat-virtual-4b2475852d/5/AppData/Local/Yarn/Berry/cache/@firebase-analytics-compat-npm-0.2.16-ea404b4cee-10c0.zip/node_modules/@firebase/analytics-compat/",\
+        "packageDependencies": [\
+          ["@firebase/analytics-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.16"],\
+          ["@firebase/analytics", "virtual:4b2475852d461cdc30bd869f48bdaeea67896f4fa435274c45509ef38b579cd5d0fd37c4fd257eef8450ad86670555d73ca613c6dcecab2bf566078363a711de#npm:0.10.10"],\
+          ["@firebase/analytics-types", "npm:0.8.3"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/analytics-types", [\
+      ["npm:0.8.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-analytics-types-npm-0.8.3-f283757666-10c0.zip/node_modules/@firebase/analytics-types/",\
+        "packageDependencies": [\
+          ["@firebase/analytics-types", "npm:0.8.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/app", [\
+      ["npm:0.10.17", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-app-npm-0.10.17-2be41be322-10c0.zip/node_modules/@firebase/app/",\
+        "packageDependencies": [\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["idb", "npm:7.1.1"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/app-check", [\
+      ["npm:0.8.10", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-app-check-npm-0.8.10-7f13536dea-10c0.zip/node_modules/@firebase/app-check/",\
+        "packageDependencies": [\
+          ["@firebase/app-check", "npm:0.8.10"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:7f347ad0e3b79274e4cc7952d7762a15c22b6faf7c99c164636314f1b14355f80366e057ad626026934ec7592f99a4b26361be73c19395501c003e88f1632afd#npm:0.8.10", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-app-check-virtual-1793ec29e8/5/AppData/Local/Yarn/Berry/cache/@firebase-app-check-npm-0.8.10-7f13536dea-10c0.zip/node_modules/@firebase/app-check/",\
+        "packageDependencies": [\
+          ["@firebase/app-check", "virtual:7f347ad0e3b79274e4cc7952d7762a15c22b6faf7c99c164636314f1b14355f80366e057ad626026934ec7592f99a4b26361be73c19395501c003e88f1632afd#npm:0.8.10"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.8.10", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-app-check-virtual-7b27e8fa3b/5/AppData/Local/Yarn/Berry/cache/@firebase-app-check-npm-0.8.10-7f13536dea-10c0.zip/node_modules/@firebase/app-check/",\
+        "packageDependencies": [\
+          ["@firebase/app-check", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.8.10"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/app-check-compat", [\
+      ["npm:0.3.17", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-app-check-compat-npm-0.3.17-27f71d12a0-10c0.zip/node_modules/@firebase/app-check-compat/",\
+        "packageDependencies": [\
+          ["@firebase/app-check-compat", "npm:0.3.17"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.17", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-app-check-compat-virtual-7f347ad0e3/5/AppData/Local/Yarn/Berry/cache/@firebase-app-check-compat-npm-0.3.17-27f71d12a0-10c0.zip/node_modules/@firebase/app-check-compat/",\
+        "packageDependencies": [\
+          ["@firebase/app-check-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.17"],\
+          ["@firebase/app-check", "virtual:7f347ad0e3b79274e4cc7952d7762a15c22b6faf7c99c164636314f1b14355f80366e057ad626026934ec7592f99a4b26361be73c19395501c003e88f1632afd#npm:0.8.10"],\
+          ["@firebase/app-check-types", "npm:0.5.3"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/app-check-interop-types", [\
+      ["npm:0.3.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-app-check-interop-types-npm-0.3.3-f14552ae0d-10c0.zip/node_modules/@firebase/app-check-interop-types/",\
+        "packageDependencies": [\
+          ["@firebase/app-check-interop-types", "npm:0.3.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/app-check-types", [\
+      ["npm:0.5.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-app-check-types-npm-0.5.3-be7fd68af9-10c0.zip/node_modules/@firebase/app-check-types/",\
+        "packageDependencies": [\
+          ["@firebase/app-check-types", "npm:0.5.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/app-compat", [\
+      ["npm:0.2.47", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-app-compat-npm-0.2.47-7509d9ec38-10c0.zip/node_modules/@firebase/app-compat/",\
+        "packageDependencies": [\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/app-types", [\
+      ["npm:0.9.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-app-types-npm-0.9.3-600a3cf392-10c0.zip/node_modules/@firebase/app-types/",\
+        "packageDependencies": [\
+          ["@firebase/app-types", "npm:0.9.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/auth", [\
+      ["npm:1.8.1", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-auth-npm-1.8.1-22052dfff9-10c0.zip/node_modules/@firebase/auth/",\
+        "packageDependencies": [\
+          ["@firebase/auth", "npm:1.8.1"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:967793194d6f53a4f39d9b169fa7bad49d58adaadb38e19457f9f1ee94a764c50ea0cc4f2545008f4c8702947bab0530b6ba080ac0202a2d39e8df713e898b17#npm:1.8.1", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-auth-virtual-2321826ba2/5/AppData/Local/Yarn/Berry/cache/@firebase-auth-npm-1.8.1-22052dfff9-10c0.zip/node_modules/@firebase/auth/",\
+        "packageDependencies": [\
+          ["@firebase/auth", "virtual:967793194d6f53a4f39d9b169fa7bad49d58adaadb38e19457f9f1ee94a764c50ea0cc4f2545008f4c8702947bab0530b6ba080ac0202a2d39e8df713e898b17#npm:1.8.1"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@react-native-async-storage/async-storage", null],\
+          ["@types/firebase__app", null],\
+          ["@types/react-native-async-storage__async-storage", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@react-native-async-storage/async-storage",\
+          "@types/firebase__app",\
+          "@types/react-native-async-storage__async-storage"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:1.8.1", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-auth-virtual-737ac84729/5/AppData/Local/Yarn/Berry/cache/@firebase-auth-npm-1.8.1-22052dfff9-10c0.zip/node_modules/@firebase/auth/",\
+        "packageDependencies": [\
+          ["@firebase/auth", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:1.8.1"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@react-native-async-storage/async-storage", null],\
+          ["@types/firebase__app", null],\
+          ["@types/react-native-async-storage__async-storage", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@react-native-async-storage/async-storage",\
+          "@types/firebase__app",\
+          "@types/react-native-async-storage__async-storage"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/auth-compat", [\
+      ["npm:0.5.16", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-auth-compat-npm-0.5.16-008395c28b-10c0.zip/node_modules/@firebase/auth-compat/",\
+        "packageDependencies": [\
+          ["@firebase/auth-compat", "npm:0.5.16"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.5.16", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-auth-compat-virtual-967793194d/5/AppData/Local/Yarn/Berry/cache/@firebase-auth-compat-npm-0.5.16-008395c28b-10c0.zip/node_modules/@firebase/auth-compat/",\
+        "packageDependencies": [\
+          ["@firebase/auth-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.5.16"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/auth", "virtual:967793194d6f53a4f39d9b169fa7bad49d58adaadb38e19457f9f1ee94a764c50ea0cc4f2545008f4c8702947bab0530b6ba080ac0202a2d39e8df713e898b17#npm:1.8.1"],\
+          ["@firebase/auth-types", "virtual:967793194d6f53a4f39d9b169fa7bad49d58adaadb38e19457f9f1ee94a764c50ea0cc4f2545008f4c8702947bab0530b6ba080ac0202a2d39e8df713e898b17#npm:0.12.3"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/auth-interop-types", [\
+      ["npm:0.2.4", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-auth-interop-types-npm-0.2.4-1ea4afeaee-10c0.zip/node_modules/@firebase/auth-interop-types/",\
+        "packageDependencies": [\
+          ["@firebase/auth-interop-types", "npm:0.2.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/auth-types", [\
+      ["npm:0.12.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-auth-types-npm-0.12.3-d6e1963802-10c0.zip/node_modules/@firebase/auth-types/",\
+        "packageDependencies": [\
+          ["@firebase/auth-types", "npm:0.12.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:967793194d6f53a4f39d9b169fa7bad49d58adaadb38e19457f9f1ee94a764c50ea0cc4f2545008f4c8702947bab0530b6ba080ac0202a2d39e8df713e898b17#npm:0.12.3", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-auth-types-virtual-c9339302d2/5/AppData/Local/Yarn/Berry/cache/@firebase-auth-types-npm-0.12.3-d6e1963802-10c0.zip/node_modules/@firebase/auth-types/",\
+        "packageDependencies": [\
+          ["@firebase/auth-types", "virtual:967793194d6f53a4f39d9b169fa7bad49d58adaadb38e19457f9f1ee94a764c50ea0cc4f2545008f4c8702947bab0530b6ba080ac0202a2d39e8df713e898b17#npm:0.12.3"],\
+          ["@firebase/app-types", null],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-types", null],\
+          ["@types/firebase__util", null]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-types",\
+          "@firebase/util",\
+          "@types/firebase__app-types",\
+          "@types/firebase__util"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/component", [\
+      ["npm:0.6.11", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-component-npm-0.6.11-cd658c0df3-10c0.zip/node_modules/@firebase/component/",\
+        "packageDependencies": [\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/data-connect", [\
+      ["npm:0.1.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-data-connect-npm-0.1.3-950e1f17ec-10c0.zip/node_modules/@firebase/data-connect/",\
+        "packageDependencies": [\
+          ["@firebase/data-connect", "npm:0.1.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.1.3", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-data-connect-virtual-e25c5f39f8/5/AppData/Local/Yarn/Berry/cache/@firebase-data-connect-npm-0.1.3-950e1f17ec-10c0.zip/node_modules/@firebase/data-connect/",\
+        "packageDependencies": [\
+          ["@firebase/data-connect", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.1.3"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/auth-interop-types", "npm:0.2.4"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/database", [\
+      ["npm:1.0.10", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-database-npm-1.0.10-d984b62ab2-10c0.zip/node_modules/@firebase/database/",\
+        "packageDependencies": [\
+          ["@firebase/database", "npm:1.0.10"],\
+          ["@firebase/app-check-interop-types", "npm:0.3.3"],\
+          ["@firebase/auth-interop-types", "npm:0.2.4"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["faye-websocket", "npm:0.11.4"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/database-compat", [\
+      ["npm:2.0.1", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-database-compat-npm-2.0.1-2f602d3d11-10c0.zip/node_modules/@firebase/database-compat/",\
+        "packageDependencies": [\
+          ["@firebase/database-compat", "npm:2.0.1"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/database", "npm:1.0.10"],\
+          ["@firebase/database-types", "npm:1.0.7"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/database-types", [\
+      ["npm:1.0.7", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-database-types-npm-1.0.7-685dc35db8-10c0.zip/node_modules/@firebase/database-types/",\
+        "packageDependencies": [\
+          ["@firebase/database-types", "npm:1.0.7"],\
+          ["@firebase/app-types", "npm:0.9.3"],\
+          ["@firebase/util", "npm:1.10.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/firestore", [\
+      ["npm:4.7.5", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-firestore-npm-4.7.5-0e03cdcd9b-10c0.zip/node_modules/@firebase/firestore/",\
+        "packageDependencies": [\
+          ["@firebase/firestore", "npm:4.7.5"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:4.7.5", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-firestore-virtual-81643ce36e/5/AppData/Local/Yarn/Berry/cache/@firebase-firestore-npm-4.7.5-0e03cdcd9b-10c0.zip/node_modules/@firebase/firestore/",\
+        "packageDependencies": [\
+          ["@firebase/firestore", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:4.7.5"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@firebase/webchannel-wrapper", "npm:1.0.3"],\
+          ["@grpc/grpc-js", "npm:1.9.15"],\
+          ["@grpc/proto-loader", "npm:0.7.13"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:f7f7626121c96ee3dbea2356cd1eb7f5d46504798c89256a7afdd8e0653ade2de13242555f7b3e9732151477e0cbd4ad1973eb1770d84ccafd6fc101406c710e#npm:4.7.5", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-firestore-virtual-a922ca8026/5/AppData/Local/Yarn/Berry/cache/@firebase-firestore-npm-4.7.5-0e03cdcd9b-10c0.zip/node_modules/@firebase/firestore/",\
+        "packageDependencies": [\
+          ["@firebase/firestore", "virtual:f7f7626121c96ee3dbea2356cd1eb7f5d46504798c89256a7afdd8e0653ade2de13242555f7b3e9732151477e0cbd4ad1973eb1770d84ccafd6fc101406c710e#npm:4.7.5"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@firebase/webchannel-wrapper", "npm:1.0.3"],\
+          ["@grpc/grpc-js", "npm:1.9.15"],\
+          ["@grpc/proto-loader", "npm:0.7.13"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/firestore-compat", [\
+      ["npm:0.3.40", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-firestore-compat-npm-0.3.40-d37eae3562-10c0.zip/node_modules/@firebase/firestore-compat/",\
+        "packageDependencies": [\
+          ["@firebase/firestore-compat", "npm:0.3.40"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.40", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-firestore-compat-virtual-f7f7626121/5/AppData/Local/Yarn/Berry/cache/@firebase-firestore-compat-npm-0.3.40-d37eae3562-10c0.zip/node_modules/@firebase/firestore-compat/",\
+        "packageDependencies": [\
+          ["@firebase/firestore-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.40"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/firestore", "virtual:f7f7626121c96ee3dbea2356cd1eb7f5d46504798c89256a7afdd8e0653ade2de13242555f7b3e9732151477e0cbd4ad1973eb1770d84ccafd6fc101406c710e#npm:4.7.5"],\
+          ["@firebase/firestore-types", "virtual:f7f7626121c96ee3dbea2356cd1eb7f5d46504798c89256a7afdd8e0653ade2de13242555f7b3e9732151477e0cbd4ad1973eb1770d84ccafd6fc101406c710e#npm:3.0.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/firestore-types", [\
+      ["npm:3.0.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-firestore-types-npm-3.0.3-b1039d52e2-10c0.zip/node_modules/@firebase/firestore-types/",\
+        "packageDependencies": [\
+          ["@firebase/firestore-types", "npm:3.0.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:f7f7626121c96ee3dbea2356cd1eb7f5d46504798c89256a7afdd8e0653ade2de13242555f7b3e9732151477e0cbd4ad1973eb1770d84ccafd6fc101406c710e#npm:3.0.3", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-firestore-types-virtual-fed92975d0/5/AppData/Local/Yarn/Berry/cache/@firebase-firestore-types-npm-3.0.3-b1039d52e2-10c0.zip/node_modules/@firebase/firestore-types/",\
+        "packageDependencies": [\
+          ["@firebase/firestore-types", "virtual:f7f7626121c96ee3dbea2356cd1eb7f5d46504798c89256a7afdd8e0653ade2de13242555f7b3e9732151477e0cbd4ad1973eb1770d84ccafd6fc101406c710e#npm:3.0.3"],\
+          ["@firebase/app-types", null],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-types", null],\
+          ["@types/firebase__util", null]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-types",\
+          "@firebase/util",\
+          "@types/firebase__app-types",\
+          "@types/firebase__util"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/functions", [\
+      ["npm:0.12.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-functions-npm-0.12.0-25a756bdbd-10c0.zip/node_modules/@firebase/functions/",\
+        "packageDependencies": [\
+          ["@firebase/functions", "npm:0.12.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:a147da6d74f5dc2a78b1e10b37f0072111469ef1a5ca8782fd14e171ad14f345d1b510b8b6090feba6646f9e67b9f6fa5ef1f2d27e5c0c54b65ff349446cc99a#npm:0.12.0", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-functions-virtual-89174559f6/5/AppData/Local/Yarn/Berry/cache/@firebase-functions-npm-0.12.0-25a756bdbd-10c0.zip/node_modules/@firebase/functions/",\
+        "packageDependencies": [\
+          ["@firebase/functions", "virtual:a147da6d74f5dc2a78b1e10b37f0072111469ef1a5ca8782fd14e171ad14f345d1b510b8b6090feba6646f9e67b9f6fa5ef1f2d27e5c0c54b65ff349446cc99a#npm:0.12.0"],\
+          ["@firebase/app", null],\
+          ["@firebase/app-check-interop-types", "npm:0.3.3"],\
+          ["@firebase/auth-interop-types", "npm:0.2.4"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/messaging-interop-types", "npm:0.2.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.12.0", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-functions-virtual-a533f66a3f/5/AppData/Local/Yarn/Berry/cache/@firebase-functions-npm-0.12.0-25a756bdbd-10c0.zip/node_modules/@firebase/functions/",\
+        "packageDependencies": [\
+          ["@firebase/functions", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.12.0"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/app-check-interop-types", "npm:0.3.3"],\
+          ["@firebase/auth-interop-types", "npm:0.2.4"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/messaging-interop-types", "npm:0.2.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/functions-compat", [\
+      ["npm:0.3.17", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-functions-compat-npm-0.3.17-047b08a23a-10c0.zip/node_modules/@firebase/functions-compat/",\
+        "packageDependencies": [\
+          ["@firebase/functions-compat", "npm:0.3.17"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.17", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-functions-compat-virtual-a147da6d74/5/AppData/Local/Yarn/Berry/cache/@firebase-functions-compat-npm-0.3.17-047b08a23a-10c0.zip/node_modules/@firebase/functions-compat/",\
+        "packageDependencies": [\
+          ["@firebase/functions-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.17"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/functions", "virtual:a147da6d74f5dc2a78b1e10b37f0072111469ef1a5ca8782fd14e171ad14f345d1b510b8b6090feba6646f9e67b9f6fa5ef1f2d27e5c0c54b65ff349446cc99a#npm:0.12.0"],\
+          ["@firebase/functions-types", "npm:0.6.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/functions-types", [\
+      ["npm:0.6.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-functions-types-npm-0.6.3-c1a53f99ed-10c0.zip/node_modules/@firebase/functions-types/",\
+        "packageDependencies": [\
+          ["@firebase/functions-types", "npm:0.6.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/installations", [\
+      ["npm:0.6.11", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-installations-npm-0.6.11-6e84bdabd0-10c0.zip/node_modules/@firebase/installations/",\
+        "packageDependencies": [\
+          ["@firebase/installations", "npm:0.6.11"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:7715af0f340735f82adac212db26a4dd294db50e5a2a55080b3197d9c81898e40bf2b62713f02210c6c0f5f07ab29a7a70bc6d5e098ecf0b72d70b81effd7cf2#npm:0.6.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-installations-virtual-3508f6027b/5/AppData/Local/Yarn/Berry/cache/@firebase-installations-npm-0.6.11-6e84bdabd0-10c0.zip/node_modules/@firebase/installations/",\
+        "packageDependencies": [\
+          ["@firebase/installations", "virtual:7715af0f340735f82adac212db26a4dd294db50e5a2a55080b3197d9c81898e40bf2b62713f02210c6c0f5f07ab29a7a70bc6d5e098ecf0b72d70b81effd7cf2#npm:0.6.11"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["idb", "npm:7.1.1"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-installations-virtual-8b2c354244/5/AppData/Local/Yarn/Berry/cache/@firebase-installations-npm-0.6.11-6e84bdabd0-10c0.zip/node_modules/@firebase/installations/",\
+        "packageDependencies": [\
+          ["@firebase/installations", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["idb", "npm:7.1.1"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/installations-compat", [\
+      ["npm:0.2.11", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-installations-compat-npm-0.2.11-e2b2c2dea5-10c0.zip/node_modules/@firebase/installations-compat/",\
+        "packageDependencies": [\
+          ["@firebase/installations-compat", "npm:0.2.11"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-installations-compat-virtual-b38babc55d/5/AppData/Local/Yarn/Berry/cache/@firebase-installations-compat-npm-0.2.11-e2b2c2dea5-10c0.zip/node_modules/@firebase/installations-compat/",\
+        "packageDependencies": [\
+          ["@firebase/installations-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:7715af0f340735f82adac212db26a4dd294db50e5a2a55080b3197d9c81898e40bf2b62713f02210c6c0f5f07ab29a7a70bc6d5e098ecf0b72d70b81effd7cf2#npm:0.6.11"],\
+          ["@firebase/installations-types", "virtual:b38babc55df4ad272c42f4dbe154017d3528483929865385a860ad6acea52f313ddad8f2408e6b4aa949dfa34763ef4249f310e87b1765bf0eb001f8edd3158d#npm:0.5.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/installations-types", [\
+      ["npm:0.5.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-installations-types-npm-0.5.3-22c29ab23b-10c0.zip/node_modules/@firebase/installations-types/",\
+        "packageDependencies": [\
+          ["@firebase/installations-types", "npm:0.5.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:b38babc55df4ad272c42f4dbe154017d3528483929865385a860ad6acea52f313ddad8f2408e6b4aa949dfa34763ef4249f310e87b1765bf0eb001f8edd3158d#npm:0.5.3", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-installations-types-virtual-6b26e4734a/5/AppData/Local/Yarn/Berry/cache/@firebase-installations-types-npm-0.5.3-22c29ab23b-10c0.zip/node_modules/@firebase/installations-types/",\
+        "packageDependencies": [\
+          ["@firebase/installations-types", "virtual:b38babc55df4ad272c42f4dbe154017d3528483929865385a860ad6acea52f313ddad8f2408e6b4aa949dfa34763ef4249f310e87b1765bf0eb001f8edd3158d#npm:0.5.3"],\
+          ["@firebase/app-types", null],\
+          ["@types/firebase__app-types", null]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-types",\
+          "@types/firebase__app-types"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/logger", [\
+      ["npm:0.4.4", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-logger-npm-0.4.4-78c2fe200b-10c0.zip/node_modules/@firebase/logger/",\
+        "packageDependencies": [\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/messaging", [\
+      ["npm:0.12.15", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-messaging-npm-0.12.15-983d487531-10c0.zip/node_modules/@firebase/messaging/",\
+        "packageDependencies": [\
+          ["@firebase/messaging", "npm:0.12.15"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:0e589c4e657b7d615b846b7dfeddce57f73ec3fda9bed7bb8eb22d826e5ee0542f33de43e418c08ebd57abf92474bb85e0e5372597366ffc450d42e576f376de#npm:0.12.15", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-messaging-virtual-6e38471000/5/AppData/Local/Yarn/Berry/cache/@firebase-messaging-npm-0.12.15-983d487531-10c0.zip/node_modules/@firebase/messaging/",\
+        "packageDependencies": [\
+          ["@firebase/messaging", "virtual:0e589c4e657b7d615b846b7dfeddce57f73ec3fda9bed7bb8eb22d826e5ee0542f33de43e418c08ebd57abf92474bb85e0e5372597366ffc450d42e576f376de#npm:0.12.15"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:7715af0f340735f82adac212db26a4dd294db50e5a2a55080b3197d9c81898e40bf2b62713f02210c6c0f5f07ab29a7a70bc6d5e098ecf0b72d70b81effd7cf2#npm:0.6.11"],\
+          ["@firebase/messaging-interop-types", "npm:0.2.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["idb", "npm:7.1.1"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.12.15", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-messaging-virtual-dc67befa61/5/AppData/Local/Yarn/Berry/cache/@firebase-messaging-npm-0.12.15-983d487531-10c0.zip/node_modules/@firebase/messaging/",\
+        "packageDependencies": [\
+          ["@firebase/messaging", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.12.15"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/messaging-interop-types", "npm:0.2.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["idb", "npm:7.1.1"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/messaging-compat", [\
+      ["npm:0.2.15", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-messaging-compat-npm-0.2.15-b9c6e65e80-10c0.zip/node_modules/@firebase/messaging-compat/",\
+        "packageDependencies": [\
+          ["@firebase/messaging-compat", "npm:0.2.15"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.15", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-messaging-compat-virtual-0e589c4e65/5/AppData/Local/Yarn/Berry/cache/@firebase-messaging-compat-npm-0.2.15-b9c6e65e80-10c0.zip/node_modules/@firebase/messaging-compat/",\
+        "packageDependencies": [\
+          ["@firebase/messaging-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.15"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/messaging", "virtual:0e589c4e657b7d615b846b7dfeddce57f73ec3fda9bed7bb8eb22d826e5ee0542f33de43e418c08ebd57abf92474bb85e0e5372597366ffc450d42e576f376de#npm:0.12.15"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/messaging-interop-types", [\
+      ["npm:0.2.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-messaging-interop-types-npm-0.2.3-5d3483b6c1-10c0.zip/node_modules/@firebase/messaging-interop-types/",\
+        "packageDependencies": [\
+          ["@firebase/messaging-interop-types", "npm:0.2.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/performance", [\
+      ["npm:0.6.11", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-performance-npm-0.6.11-739df4f51a-10c0.zip/node_modules/@firebase/performance/",\
+        "packageDependencies": [\
+          ["@firebase/performance", "npm:0.6.11"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:8cbf951b8802df2e28b4d5d648a079f876fb56fa243799e2ed0da6b0ad1a607dcf27abaf13187bec37c01ddf6f849cefda417b72f3a1ceb54ea66a5087b0eed6#npm:0.6.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-performance-virtual-17f5d34567/5/AppData/Local/Yarn/Berry/cache/@firebase-performance-npm-0.6.11-739df4f51a-10c0.zip/node_modules/@firebase/performance/",\
+        "packageDependencies": [\
+          ["@firebase/performance", "virtual:8cbf951b8802df2e28b4d5d648a079f876fb56fa243799e2ed0da6b0ad1a607dcf27abaf13187bec37c01ddf6f849cefda417b72f3a1ceb54ea66a5087b0eed6#npm:0.6.11"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:7715af0f340735f82adac212db26a4dd294db50e5a2a55080b3197d9c81898e40bf2b62713f02210c6c0f5f07ab29a7a70bc6d5e098ecf0b72d70b81effd7cf2#npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-performance-virtual-bc01b02126/5/AppData/Local/Yarn/Berry/cache/@firebase-performance-npm-0.6.11-739df4f51a-10c0.zip/node_modules/@firebase/performance/",\
+        "packageDependencies": [\
+          ["@firebase/performance", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/performance-compat", [\
+      ["npm:0.2.11", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-performance-compat-npm-0.2.11-e6b408b63c-10c0.zip/node_modules/@firebase/performance-compat/",\
+        "packageDependencies": [\
+          ["@firebase/performance-compat", "npm:0.2.11"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-performance-compat-virtual-8cbf951b88/5/AppData/Local/Yarn/Berry/cache/@firebase-performance-compat-npm-0.2.11-e6b408b63c-10c0.zip/node_modules/@firebase/performance-compat/",\
+        "packageDependencies": [\
+          ["@firebase/performance-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/performance", "virtual:8cbf951b8802df2e28b4d5d648a079f876fb56fa243799e2ed0da6b0ad1a607dcf27abaf13187bec37c01ddf6f849cefda417b72f3a1ceb54ea66a5087b0eed6#npm:0.6.11"],\
+          ["@firebase/performance-types", "npm:0.2.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/performance-types", [\
+      ["npm:0.2.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-performance-types-npm-0.2.3-5f97625e86-10c0.zip/node_modules/@firebase/performance-types/",\
+        "packageDependencies": [\
+          ["@firebase/performance-types", "npm:0.2.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/remote-config", [\
+      ["npm:0.4.11", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-remote-config-npm-0.4.11-c836f344c3-10c0.zip/node_modules/@firebase/remote-config/",\
+        "packageDependencies": [\
+          ["@firebase/remote-config", "npm:0.4.11"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:5ae9e4099583d992a8914f40261456fd717b1e4dd17b39e2e6d8ab16f36dd5e0ccb8537576b1ad51c9525537e4e0645a3a30de68d66412a01a75ff3266aa4e81#npm:0.4.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-remote-config-virtual-ebdd394608/5/AppData/Local/Yarn/Berry/cache/@firebase-remote-config-npm-0.4.11-c836f344c3-10c0.zip/node_modules/@firebase/remote-config/",\
+        "packageDependencies": [\
+          ["@firebase/remote-config", "virtual:5ae9e4099583d992a8914f40261456fd717b1e4dd17b39e2e6d8ab16f36dd5e0ccb8537576b1ad51c9525537e4e0645a3a30de68d66412a01a75ff3266aa4e81#npm:0.4.11"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:7715af0f340735f82adac212db26a4dd294db50e5a2a55080b3197d9c81898e40bf2b62713f02210c6c0f5f07ab29a7a70bc6d5e098ecf0b72d70b81effd7cf2#npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.4.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-remote-config-virtual-1981888d58/5/AppData/Local/Yarn/Berry/cache/@firebase-remote-config-npm-0.4.11-c836f344c3-10c0.zip/node_modules/@firebase/remote-config/",\
+        "packageDependencies": [\
+          ["@firebase/remote-config", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.4.11"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/installations", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/remote-config-compat", [\
+      ["npm:0.2.11", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-remote-config-compat-npm-0.2.11-ec9e52c9a5-10c0.zip/node_modules/@firebase/remote-config-compat/",\
+        "packageDependencies": [\
+          ["@firebase/remote-config-compat", "npm:0.2.11"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-remote-config-compat-virtual-5ae9e40995/5/AppData/Local/Yarn/Berry/cache/@firebase-remote-config-compat-npm-0.2.11-ec9e52c9a5-10c0.zip/node_modules/@firebase/remote-config-compat/",\
+        "packageDependencies": [\
+          ["@firebase/remote-config-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/remote-config", "virtual:5ae9e4099583d992a8914f40261456fd717b1e4dd17b39e2e6d8ab16f36dd5e0ccb8537576b1ad51c9525537e4e0645a3a30de68d66412a01a75ff3266aa4e81#npm:0.4.11"],\
+          ["@firebase/remote-config-types", "npm:0.3.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/remote-config-types", [\
+      ["npm:0.3.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-remote-config-types-npm-0.3.3-36d4035382-10c0.zip/node_modules/@firebase/remote-config-types/",\
+        "packageDependencies": [\
+          ["@firebase/remote-config-types", "npm:0.3.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/storage", [\
+      ["npm:0.13.4", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-storage-npm-0.13.4-8493da4135-10c0.zip/node_modules/@firebase/storage/",\
+        "packageDependencies": [\
+          ["@firebase/storage", "npm:0.13.4"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:acfd58f8869861bc0270ee242518e434b6ad66a7c46a1a97ab651d95395d9c01ef8b377c8b61bd8153dea8c419734a2ef25520e71a09b8f942a59280a019e774#npm:0.13.4", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-storage-virtual-9b8fe9d993/5/AppData/Local/Yarn/Berry/cache/@firebase-storage-npm-0.13.4-8493da4135-10c0.zip/node_modules/@firebase/storage/",\
+        "packageDependencies": [\
+          ["@firebase/storage", "virtual:acfd58f8869861bc0270ee242518e434b6ad66a7c46a1a97ab651d95395d9c01ef8b377c8b61bd8153dea8c419734a2ef25520e71a09b8f942a59280a019e774#npm:0.13.4"],\
+          ["@firebase/app", null],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.13.4", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-storage-virtual-4469641249/5/AppData/Local/Yarn/Berry/cache/@firebase-storage-npm-0.13.4-8493da4135-10c0.zip/node_modules/@firebase/storage/",\
+        "packageDependencies": [\
+          ["@firebase/storage", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.13.4"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/storage-compat", [\
+      ["npm:0.3.14", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-storage-compat-npm-0.3.14-c3f29bd16a-10c0.zip/node_modules/@firebase/storage-compat/",\
+        "packageDependencies": [\
+          ["@firebase/storage-compat", "npm:0.3.14"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.14", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-storage-compat-virtual-acfd58f886/5/AppData/Local/Yarn/Berry/cache/@firebase-storage-compat-npm-0.3.14-c3f29bd16a-10c0.zip/node_modules/@firebase/storage-compat/",\
+        "packageDependencies": [\
+          ["@firebase/storage-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.14"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/storage", "virtual:acfd58f8869861bc0270ee242518e434b6ad66a7c46a1a97ab651d95395d9c01ef8b377c8b61bd8153dea8c419734a2ef25520e71a09b8f942a59280a019e774#npm:0.13.4"],\
+          ["@firebase/storage-types", "virtual:acfd58f8869861bc0270ee242518e434b6ad66a7c46a1a97ab651d95395d9c01ef8b377c8b61bd8153dea8c419734a2ef25520e71a09b8f942a59280a019e774#npm:0.8.3"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-compat", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-compat",\
+          "@types/firebase__app-compat"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/storage-types", [\
+      ["npm:0.8.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-storage-types-npm-0.8.3-9c3a8ae5af-10c0.zip/node_modules/@firebase/storage-types/",\
+        "packageDependencies": [\
+          ["@firebase/storage-types", "npm:0.8.3"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:acfd58f8869861bc0270ee242518e434b6ad66a7c46a1a97ab651d95395d9c01ef8b377c8b61bd8153dea8c419734a2ef25520e71a09b8f942a59280a019e774#npm:0.8.3", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-storage-types-virtual-7270b6832b/5/AppData/Local/Yarn/Berry/cache/@firebase-storage-types-npm-0.8.3-9c3a8ae5af-10c0.zip/node_modules/@firebase/storage-types/",\
+        "packageDependencies": [\
+          ["@firebase/storage-types", "virtual:acfd58f8869861bc0270ee242518e434b6ad66a7c46a1a97ab651d95395d9c01ef8b377c8b61bd8153dea8c419734a2ef25520e71a09b8f942a59280a019e774#npm:0.8.3"],\
+          ["@firebase/app-types", null],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app-types", null],\
+          ["@types/firebase__util", null]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-types",\
+          "@firebase/util",\
+          "@types/firebase__app-types",\
+          "@types/firebase__util"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/util", [\
+      ["npm:1.10.2", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-util-npm-1.10.2-a7ec24eaca-10c0.zip/node_modules/@firebase/util/",\
+        "packageDependencies": [\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/vertexai", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-vertexai-npm-1.0.2-7d13e7321c-10c0.zip/node_modules/@firebase/vertexai/",\
+        "packageDependencies": [\
+          ["@firebase/vertexai", "npm:1.0.2"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:1.0.2", {\
+        "packageLocation": "./.yarn/__virtual__/@firebase-vertexai-virtual-20855fd889/5/AppData/Local/Yarn/Berry/cache/@firebase-vertexai-npm-1.0.2-7d13e7321c-10c0.zip/node_modules/@firebase/vertexai/",\
+        "packageDependencies": [\
+          ["@firebase/vertexai", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:1.0.2"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/app-check-interop-types", "npm:0.3.3"],\
+          ["@firebase/app-types", "npm:0.9.3"],\
+          ["@firebase/component", "npm:0.6.11"],\
+          ["@firebase/logger", "npm:0.4.4"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@types/firebase__app", null],\
+          ["@types/firebase__app-types", null],\
+          ["tslib", "npm:2.8.1"]\
+        ],\
+        "packagePeers": [\
+          "@firebase/app-types",\
+          "@firebase/app",\
+          "@types/firebase__app-types",\
+          "@types/firebase__app"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@firebase/webchannel-wrapper", [\
+      ["npm:1.0.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@firebase-webchannel-wrapper-npm-1.0.3-0df25ee562-10c0.zip/node_modules/@firebase/webchannel-wrapper/",\
+        "packageDependencies": [\
+          ["@firebase/webchannel-wrapper", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@grpc/grpc-js", [\
+      ["npm:1.9.15", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@grpc-grpc-js-npm-1.9.15-ff69e71e58-10c0.zip/node_modules/@grpc/grpc-js/",\
+        "packageDependencies": [\
+          ["@grpc/grpc-js", "npm:1.9.15"],\
+          ["@grpc/proto-loader", "npm:0.7.13"],\
+          ["@types/node", "npm:22.10.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@grpc/proto-loader", [\
+      ["npm:0.7.13", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@grpc-proto-loader-npm-0.7.13-be5b6af1c1-10c0.zip/node_modules/@grpc/proto-loader/",\
+        "packageDependencies": [\
+          ["@grpc/proto-loader", "npm:0.7.13"],\
+          ["lodash.camelcase", "npm:4.3.0"],\
+          ["long", "npm:5.2.3"],\
+          ["protobufjs", "npm:7.4.0"],\
+          ["yargs", "npm:17.7.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@humanwhocodes/config-array", [\
       ["npm:0.11.14", {\
         "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@humanwhocodes-config-array-npm-0.11.14-94a02fcc87-10c0.zip/node_modules/@humanwhocodes/config-array/",\
@@ -4134,6 +5236,98 @@ const RAW_RUNTIME_STATE =
           "webpack-hot-middleware",\
           "webpack-plugin-serve",\
           "webpack"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/aspromise", [\
+      ["npm:1.1.2", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-aspromise-npm-1.1.2-71d00b938f-10c0.zip/node_modules/@protobufjs/aspromise/",\
+        "packageDependencies": [\
+          ["@protobufjs/aspromise", "npm:1.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/base64", [\
+      ["npm:1.1.2", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-base64-npm-1.1.2-cd8ca6814a-10c0.zip/node_modules/@protobufjs/base64/",\
+        "packageDependencies": [\
+          ["@protobufjs/base64", "npm:1.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/codegen", [\
+      ["npm:2.0.4", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-codegen-npm-2.0.4-36e188bbe6-10c0.zip/node_modules/@protobufjs/codegen/",\
+        "packageDependencies": [\
+          ["@protobufjs/codegen", "npm:2.0.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/eventemitter", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-eventemitter-npm-1.1.0-029cc7d431-10c0.zip/node_modules/@protobufjs/eventemitter/",\
+        "packageDependencies": [\
+          ["@protobufjs/eventemitter", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/fetch", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-fetch-npm-1.1.0-ca857b7df4-10c0.zip/node_modules/@protobufjs/fetch/",\
+        "packageDependencies": [\
+          ["@protobufjs/fetch", "npm:1.1.0"],\
+          ["@protobufjs/aspromise", "npm:1.1.2"],\
+          ["@protobufjs/inquire", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/float", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-float-npm-1.0.2-5678f64d08-10c0.zip/node_modules/@protobufjs/float/",\
+        "packageDependencies": [\
+          ["@protobufjs/float", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/inquire", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-inquire-npm-1.1.0-3c7759e9ce-10c0.zip/node_modules/@protobufjs/inquire/",\
+        "packageDependencies": [\
+          ["@protobufjs/inquire", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/path", [\
+      ["npm:1.1.2", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-path-npm-1.1.2-641d08de76-10c0.zip/node_modules/@protobufjs/path/",\
+        "packageDependencies": [\
+          ["@protobufjs/path", "npm:1.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/pool", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-pool-npm-1.1.0-47a76f96a1-10c0.zip/node_modules/@protobufjs/pool/",\
+        "packageDependencies": [\
+          ["@protobufjs/pool", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@protobufjs/utf8", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/@protobufjs-utf8-npm-1.1.0-02c590807c-10c0.zip/node_modules/@protobufjs/utf8/",\
+        "packageDependencies": [\
+          ["@protobufjs/utf8", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -6848,6 +8042,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-react-app", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:7.0.1"],\
           ["eslint-plugin-prettier", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:5.2.1"],\
           ["eslint-plugin-react", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:7.37.3"],\
+          ["firebase", "npm:11.1.0"],\
           ["prettier", "npm:3.4.2"],\
           ["react", "npm:19.0.0"],\
           ["react-dom", "virtual:e6688db1f2295e4fe3d75cd48dd924fa52ad5fdccfd88f67186a42b11b7a3c2e069fadafc6ac5fd4c56f8d5c40998c85ebc4b16f84f40c4a1fe6fb7a57ace986#npm:19.0.0"],\
@@ -6990,6 +8185,16 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/cliui-npm-7.0.4-d6b8a9edb6-10c0.zip/node_modules/cliui/",\
         "packageDependencies": [\
           ["cliui", "npm:7.0.4"],\
+          ["string-width", "npm:4.2.3"],\
+          ["strip-ansi", "npm:6.0.1"],\
+          ["wrap-ansi", "npm:7.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:8.0.1", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/cliui-npm-8.0.1-3b029092cf-10c0.zip/node_modules/cliui/",\
+        "packageDependencies": [\
+          ["cliui", "npm:8.0.1"],\
           ["string-width", "npm:4.2.3"],\
           ["strip-ansi", "npm:6.0.1"],\
           ["wrap-ansi", "npm:7.0.0"]\
@@ -9609,6 +10814,43 @@ const RAW_RUNTIME_STATE =
           ["find-up", "npm:5.0.0"],\
           ["locate-path", "npm:6.0.0"],\
           ["path-exists", "npm:4.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["firebase", [\
+      ["npm:11.1.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/firebase-npm-11.1.0-d7da824b40-10c0.zip/node_modules/firebase/",\
+        "packageDependencies": [\
+          ["firebase", "npm:11.1.0"],\
+          ["@firebase/analytics", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.10.10"],\
+          ["@firebase/analytics-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.16"],\
+          ["@firebase/app", "npm:0.10.17"],\
+          ["@firebase/app-check", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.8.10"],\
+          ["@firebase/app-check-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.17"],\
+          ["@firebase/app-compat", "npm:0.2.47"],\
+          ["@firebase/app-types", "npm:0.9.3"],\
+          ["@firebase/auth", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:1.8.1"],\
+          ["@firebase/auth-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.5.16"],\
+          ["@firebase/data-connect", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.1.3"],\
+          ["@firebase/database", "npm:1.0.10"],\
+          ["@firebase/database-compat", "npm:2.0.1"],\
+          ["@firebase/firestore", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:4.7.5"],\
+          ["@firebase/firestore-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.40"],\
+          ["@firebase/functions", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.12.0"],\
+          ["@firebase/functions-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.17"],\
+          ["@firebase/installations", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/installations-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11"],\
+          ["@firebase/messaging", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.12.15"],\
+          ["@firebase/messaging-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.15"],\
+          ["@firebase/performance", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.6.11"],\
+          ["@firebase/performance-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11"],\
+          ["@firebase/remote-config", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.4.11"],\
+          ["@firebase/remote-config-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.2.11"],\
+          ["@firebase/storage", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.13.4"],\
+          ["@firebase/storage-compat", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:0.3.14"],\
+          ["@firebase/util", "npm:1.10.2"],\
+          ["@firebase/vertexai", "virtual:d7da824b40f0dbb99f633cd7dd8f20d5e6185f1023c2e23b3151c29108e37a2a76775a4095d0a85a96b107f3f464a88e1ed3e42b26871f97c269a9be138ca274#npm:1.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -12241,6 +13483,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["lodash.camelcase", [\
+      ["npm:4.3.0", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/lodash.camelcase-npm-4.3.0-bf268e3bf0-10c0.zip/node_modules/lodash.camelcase/",\
+        "packageDependencies": [\
+          ["lodash.camelcase", "npm:4.3.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["lodash.debounce", [\
       ["npm:4.0.8", {\
         "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/lodash.debounce-npm-4.0.8-f1d6e09799-10c0.zip/node_modules/lodash.debounce/",\
@@ -12282,6 +13533,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/lodash.uniq-npm-4.5.0-7c270dca85-10c0.zip/node_modules/lodash.uniq/",\
         "packageDependencies": [\
           ["lodash.uniq", "npm:4.5.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["long", [\
+      ["npm:5.2.3", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/long-npm-5.2.3-61dddb7586-10c0.zip/node_modules/long/",\
+        "packageDependencies": [\
+          ["long", "npm:5.2.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -15280,6 +16540,27 @@ const RAW_RUNTIME_STATE =
           ["loose-envify", "npm:1.4.0"],\
           ["object-assign", "npm:4.1.1"],\
           ["react-is", "npm:16.13.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["protobufjs", [\
+      ["npm:7.4.0", {\
+        "packageLocation": "./.yarn/unplugged/protobufjs-npm-7.4.0-12c56a3adc/node_modules/protobufjs/",\
+        "packageDependencies": [\
+          ["protobufjs", "npm:7.4.0"],\
+          ["@protobufjs/aspromise", "npm:1.1.2"],\
+          ["@protobufjs/base64", "npm:1.1.2"],\
+          ["@protobufjs/codegen", "npm:2.0.4"],\
+          ["@protobufjs/eventemitter", "npm:1.1.0"],\
+          ["@protobufjs/fetch", "npm:1.1.0"],\
+          ["@protobufjs/float", "npm:1.0.2"],\
+          ["@protobufjs/inquire", "npm:1.1.0"],\
+          ["@protobufjs/path", "npm:1.1.2"],\
+          ["@protobufjs/pool", "npm:1.1.0"],\
+          ["@protobufjs/utf8", "npm:1.1.0"],\
+          ["@types/node", "npm:22.10.2"],\
+          ["long", "npm:5.2.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -18792,6 +20073,20 @@ const RAW_RUNTIME_STATE =
           ["yargs-parser", "npm:20.2.9"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:17.7.2", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/yargs-npm-17.7.2-80b62638e1-10c0.zip/node_modules/yargs/",\
+        "packageDependencies": [\
+          ["yargs", "npm:17.7.2"],\
+          ["cliui", "npm:8.0.1"],\
+          ["escalade", "npm:3.2.0"],\
+          ["get-caller-file", "npm:2.0.5"],\
+          ["require-directory", "npm:2.1.1"],\
+          ["string-width", "npm:4.2.3"],\
+          ["y18n", "npm:5.0.8"],\
+          ["yargs-parser", "npm:21.1.1"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["yargs-parser", [\
@@ -18799,6 +20094,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/yargs-parser-npm-20.2.9-a1d19e598d-10c0.zip/node_modules/yargs-parser/",\
         "packageDependencies": [\
           ["yargs-parser", "npm:20.2.9"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:21.1.1", {\
+        "packageLocation": "../../../../AppData/Local/Yarn/Berry/cache/yargs-parser-npm-21.1.1-8fdc003314-10c0.zip/node_modules/yargs-parser/",\
+        "packageDependencies": [\
+          ["yargs-parser", "npm:21.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -18891,57 +20193,44 @@ const SAFE_TIME = 456789e3
 function makeError$1(code, message) {
   return Object.assign(new Error(`${code}: ${message}`), { code })
 }
-
 function EBUSY(message) {
   return makeError$1(`EBUSY`, message)
 }
-
 function ENOSYS(message, reason) {
   return makeError$1(`ENOSYS`, `${message}, ${reason}`)
 }
-
 function EINVAL(reason) {
   return makeError$1(`EINVAL`, `invalid argument, ${reason}`)
 }
-
 function EBADF(reason) {
   return makeError$1(`EBADF`, `bad file descriptor, ${reason}`)
 }
-
 function ENOENT(reason) {
   return makeError$1(`ENOENT`, `no such file or directory, ${reason}`)
 }
-
 function ENOTDIR(reason) {
   return makeError$1(`ENOTDIR`, `not a directory, ${reason}`)
 }
-
 function EISDIR(reason) {
   return makeError$1(`EISDIR`, `illegal operation on a directory, ${reason}`)
 }
-
 function EEXIST(reason) {
   return makeError$1(`EEXIST`, `file already exists, ${reason}`)
 }
-
 function EROFS(reason) {
   return makeError$1(`EROFS`, `read-only filesystem, ${reason}`)
 }
-
 function ENOTEMPTY(reason) {
   return makeError$1(`ENOTEMPTY`, `directory not empty, ${reason}`)
 }
-
 function EOPNOTSUPP(reason) {
   return makeError$1(`EOPNOTSUPP`, `operation not supported, ${reason}`)
 }
-
 function ERR_DIR_CLOSED() {
   return makeError$1(`ERR_DIR_CLOSED`, `Directory handle was closed`)
 }
 
 const DEFAULT_MODE = S_IFREG | 420
-
 class StatEntry {
   uid = 0
   gid = 0
@@ -18961,36 +20250,28 @@ class StatEntry {
   nlink = 1
   rdev = 0
   blocks = 1
-
   isBlockDevice() {
     return false
   }
-
   isCharacterDevice() {
     return false
   }
-
   isDirectory() {
     return (this.mode & S_IFMT) === S_IFDIR
   }
-
   isFIFO() {
     return false
   }
-
   isFile() {
     return (this.mode & S_IFMT) === S_IFREG
   }
-
   isSocket() {
     return false
   }
-
   isSymbolicLink() {
     return (this.mode & S_IFMT) === S_IFLNK
   }
 }
-
 class BigIntStatsEntry {
   uid = BigInt(0)
   gid = BigInt(0)
@@ -19014,40 +20295,31 @@ class BigIntStatsEntry {
   nlink = BigInt(1)
   rdev = BigInt(0)
   blocks = BigInt(1)
-
   isBlockDevice() {
     return false
   }
-
   isCharacterDevice() {
     return false
   }
-
   isDirectory() {
     return (this.mode & BigInt(S_IFMT)) === BigInt(S_IFDIR)
   }
-
   isFIFO() {
     return false
   }
-
   isFile() {
     return (this.mode & BigInt(S_IFMT)) === BigInt(S_IFREG)
   }
-
   isSocket() {
     return false
   }
-
   isSymbolicLink() {
     return (this.mode & BigInt(S_IFMT)) === BigInt(S_IFLNK)
   }
 }
-
 function makeDefaultStats() {
   return new StatEntry()
 }
-
 function clearStats(stats) {
   for (const key in stats) {
     if (Object.hasOwn(stats, key)) {
@@ -19063,7 +20335,6 @@ function clearStats(stats) {
   }
   return stats
 }
-
 function convertToBigIntStats(stats) {
   const bigintStats = new BigIntStatsEntry()
   for (const key in stats) {
@@ -19082,7 +20353,6 @@ function convertToBigIntStats(stats) {
   bigintStats.birthtimeNs = bigintStats.birthtimeMs * BigInt(1e6)
   return bigintStats
 }
-
 function areStatsEqual(a, b) {
   if (a.atimeMs !== b.atimeMs) return false
   if (a.birthtimeMs !== b.birthtimeMs) return false
@@ -19168,7 +20438,6 @@ const WINDOWS_PATH_REGEXP = /^([a-zA-Z]:.*)$/
 const UNC_WINDOWS_PATH_REGEXP = /^\/\/(\.\/)?(.*)$/
 const PORTABLE_PATH_REGEXP = /^\/([a-zA-Z]:.*)$/
 const UNC_PORTABLE_PATH_REGEXP = /^\/unc\/(\.dot\/)?(.*)$/
-
 function fromPortablePathWin32(p) {
   let portablePathMatch, uncPortablePathMatch
   if ((portablePathMatch = p.match(PORTABLE_PATH_REGEXP)))
@@ -19178,7 +20447,6 @@ function fromPortablePathWin32(p) {
   else return p
   return p.replace(/\//g, `\\`)
 }
-
 function toPortablePathWin32(p) {
   p = p.replace(/\\/g, `/`)
   let windowsPathMatch, uncWindowsPathMatch
@@ -19195,7 +20463,6 @@ const fromPortablePath =
   process.platform === `win32` ? fromPortablePathWin32 : (p) => p
 npath.fromPortablePath = fromPortablePath
 npath.toPortablePath = toPortablePath
-
 function convertPath(targetPathUtils, sourcePath) {
   return targetPathUtils === npath
     ? fromPortablePath(sourcePath)
@@ -19204,7 +20471,6 @@ function convertPath(targetPathUtils, sourcePath) {
 
 const defaultTime = new Date(SAFE_TIME * 1e3)
 const defaultTimeMs = defaultTime.getTime()
-
 async function copyPromise(destinationFs, destination, sourceFs, source, opts) {
   const normalizedDestination = destinationFs.pathUtils.normalize(destination)
   const normalizedSource = sourceFs.pathUtils.normalize(source)
@@ -19330,7 +20596,6 @@ async function copyImpl(
   }
   return updated
 }
-
 async function maybeLStat(baseFs, p) {
   try {
     return await baseFs.lstatPromise(p)
@@ -19609,20 +20874,18 @@ async function copySymlink(
 }
 
 class CustomDir {
-  closed = false
-
   constructor(path, nextDirent, opts = {}) {
     this.path = path
     this.nextDirent = nextDirent
     this.opts = opts
   }
 
+  closed = false
   throwIfClosed() {
     if (this.closed) {
       throw ERR_DIR_CLOSED()
     }
   }
-
   async *[Symbol.asyncIterator]() {
     try {
       let dirent
@@ -19633,31 +20896,26 @@ class CustomDir {
       await this.close()
     }
   }
-
   read(cb) {
     const dirent = this.readSync()
     if (typeof cb !== `undefined`) return cb(null, dirent)
     return Promise.resolve(dirent)
   }
-
   readSync() {
     this.throwIfClosed()
     return this.nextDirent()
   }
-
   close(cb) {
     this.closeSync()
     if (typeof cb !== `undefined`) return cb(null)
     return Promise.resolve()
   }
-
   closeSync() {
     this.throwIfClosed()
     this.opts.onClose?.()
     this.closed = true
   }
 }
-
 function opendir(fakeFs, path, entries, opts) {
   const nextDirent = () => {
     const filename = entries.shift()
@@ -19678,7 +20936,6 @@ function assertStatus(current, expected) {
     )
   }
 }
-
 class CustomStatWatcher extends events.EventEmitter {
   fakeFs
   path
@@ -19688,6 +20945,11 @@ class CustomStatWatcher extends events.EventEmitter {
   lastStats
   startTimeout = null
 
+  static create(fakeFs, path, opts) {
+    const statWatcher = new CustomStatWatcher(fakeFs, path, opts)
+    statWatcher.start()
+    return statWatcher
+  }
   constructor(fakeFs, path, { bigint = false } = {}) {
     super()
     this.fakeFs = fakeFs
@@ -19695,13 +20957,6 @@ class CustomStatWatcher extends events.EventEmitter {
     this.bigint = bigint
     this.lastStats = this.stat()
   }
-
-  static create(fakeFs, path, opts) {
-    const statWatcher = new CustomStatWatcher(fakeFs, path, opts)
-    statWatcher.start()
-    return statWatcher
-  }
-
   start() {
     assertStatus(this.status, 'ready' /* Ready */)
     this.status = 'running' /* Running */
@@ -19712,7 +20967,6 @@ class CustomStatWatcher extends events.EventEmitter {
       }
     }, 3)
   }
-
   stop() {
     assertStatus(this.status, 'running' /* Running */)
     this.status = 'stopped' /* Stopped */
@@ -19722,7 +20976,6 @@ class CustomStatWatcher extends events.EventEmitter {
     }
     this.emit('stop' /* Stop */)
   }
-
   stat() {
     try {
       return this.fakeFs.statSync(this.path, { bigint: this.bigint })
@@ -19733,7 +20986,6 @@ class CustomStatWatcher extends events.EventEmitter {
       return clearStats(statInstance)
     }
   }
-
   /**
    * Creates an interval whose callback compares the current stats with the previous stats and notifies all listeners in case of changes.
    *
@@ -19749,7 +21001,6 @@ class CustomStatWatcher extends events.EventEmitter {
     }, opts.interval)
     return opts.persistent ? interval : interval.unref()
   }
-
   /**
    * Registers a listener and assigns it an interval.
    */
@@ -19757,7 +21008,6 @@ class CustomStatWatcher extends events.EventEmitter {
     this.addListener('change' /* Change */, listener)
     this.changeListeners.set(listener, this.makeInterval(opts))
   }
-
   /**
    * Unregisters the listener and clears the assigned interval.
    */
@@ -19767,7 +21017,6 @@ class CustomStatWatcher extends events.EventEmitter {
     if (typeof interval !== `undefined`) clearInterval(interval)
     this.changeListeners.delete(listener)
   }
-
   /**
    * Unregisters all listeners and clears all assigned intervals.
    */
@@ -19776,11 +21025,9 @@ class CustomStatWatcher extends events.EventEmitter {
       this.unregisterChangeListener(listener)
     }
   }
-
   hasChangeListeners() {
     return this.changeListeners.size > 0
   }
-
   /**
    * Refs all stored intervals.
    */
@@ -19788,7 +21035,6 @@ class CustomStatWatcher extends events.EventEmitter {
     for (const interval of this.changeListeners.values()) interval.ref()
     return this
   }
-
   /**
    * Unrefs all stored intervals.
    */
@@ -19799,7 +21045,6 @@ class CustomStatWatcher extends events.EventEmitter {
 }
 
 const statWatchersByFakeFS = /* @__PURE__ */ new WeakMap()
-
 function watchFile(fakeFs, path, a, b) {
   let bigint
   let persistent
@@ -19832,7 +21077,6 @@ function watchFile(fakeFs, path, a, b) {
   statWatcher.registerChangeListener(listener, { persistent, interval })
   return statWatcher
 }
-
 function unwatchFile(fakeFs, path, cb) {
   const statWatchers = statWatchersByFakeFS.get(fakeFs)
   if (typeof statWatchers === `undefined`) return
@@ -19845,7 +21089,6 @@ function unwatchFile(fakeFs, path, cb) {
     statWatchers.delete(path)
   }
 }
-
 function unwatchAllFiles(fakeFs) {
   const statWatchers = statWatchersByFakeFS.get(fakeFs)
   if (typeof statWatchers === `undefined`) return
@@ -19856,11 +21099,9 @@ function unwatchAllFiles(fakeFs) {
 
 class FakeFS {
   pathUtils
-
   constructor(pathUtils) {
     this.pathUtils = pathUtils
   }
-
   async *genTraversePromise(init, { stableSort = false } = {}) {
     const stack = [init]
     while (stack.length > 0) {
@@ -19880,7 +21121,6 @@ class FakeFS {
       }
     }
   }
-
   async checksumFilePromise(path, { algorithm = `sha512` } = {}) {
     const fd = await this.openPromise(path, `r`)
     try {
@@ -19899,7 +21139,6 @@ class FakeFS {
       await this.closePromise(fd)
     }
   }
-
   async removePromise(p, { recursive = true, maxRetries = 5 } = {}) {
     let stat
     try {
@@ -19936,7 +21175,6 @@ class FakeFS {
       await this.unlinkPromise(p)
     }
   }
-
   removeSync(p, { recursive = true } = {}) {
     let stat
     try {
@@ -19957,7 +21195,6 @@ class FakeFS {
       this.unlinkSync(p)
     }
   }
-
   async mkdirpPromise(p, { chmod, utimes } = {}) {
     p = this.resolve(p)
     if (p === this.pathUtils.dirname(p)) return void 0
@@ -19989,7 +21226,6 @@ class FakeFS {
     }
     return createdDirectory
   }
-
   mkdirpSync(p, { chmod, utimes } = {}) {
     p = this.resolve(p)
     if (p === this.pathUtils.dirname(p)) return void 0
@@ -20038,7 +21274,6 @@ class FakeFS {
       linkStrategy,
     })
   }
-
   copySync(destination, source, { baseFs = this, overwrite = true } = {}) {
     const stat = baseFs.lstatSync(source)
     const exists = this.existsSync(destination)
@@ -20075,7 +21310,6 @@ class FakeFS {
     const mode = stat.mode & 511
     this.chmodSync(destination, mode)
   }
-
   async changeFilePromise(p, content, opts = {}) {
     if (Buffer.isBuffer(content)) {
       return this.changeFileBufferPromise(p, content, opts)
@@ -20083,7 +21317,6 @@ class FakeFS {
       return this.changeFileTextPromise(p, content, opts)
     }
   }
-
   async changeFileBufferPromise(p, content, { mode } = {}) {
     let current = Buffer.alloc(0)
     try {
@@ -20092,7 +21325,6 @@ class FakeFS {
     if (Buffer.compare(current, content) === 0) return
     await this.writeFilePromise(p, content, { mode })
   }
-
   async changeFileTextPromise(p, content, { automaticNewlines, mode } = {}) {
     let current = ``
     try {
@@ -20104,7 +21336,6 @@ class FakeFS {
     if (current === normalizedContent) return
     await this.writeFilePromise(p, normalizedContent, { mode })
   }
-
   changeFileSync(p, content, opts = {}) {
     if (Buffer.isBuffer(content)) {
       return this.changeFileBufferSync(p, content, opts)
@@ -20112,7 +21343,6 @@ class FakeFS {
       return this.changeFileTextSync(p, content, opts)
     }
   }
-
   changeFileBufferSync(p, content, { mode } = {}) {
     let current = Buffer.alloc(0)
     try {
@@ -20121,7 +21351,6 @@ class FakeFS {
     if (Buffer.compare(current, content) === 0) return
     this.writeFileSync(p, content, { mode })
   }
-
   changeFileTextSync(p, content, { automaticNewlines = false, mode } = {}) {
     let current = ``
     try {
@@ -20133,7 +21362,6 @@ class FakeFS {
     if (current === normalizedContent) return
     this.writeFileSync(p, normalizedContent, { mode })
   }
-
   async movePromise(fromP, toP) {
     try {
       await this.renamePromise(fromP, toP)
@@ -20146,7 +21374,6 @@ class FakeFS {
       }
     }
   }
-
   moveSync(fromP, toP) {
     try {
       this.renameSync(fromP, toP)
@@ -20159,7 +21386,6 @@ class FakeFS {
       }
     }
   }
-
   async lockPromise(affectedPath, callback) {
     const lockPath = `${affectedPath}.flock`
     const interval = 1e3 / 60
@@ -20212,7 +21438,6 @@ class FakeFS {
       } catch (error) {}
     }
   }
-
   async readJsonPromise(p) {
     const content = await this.readFilePromise(p, `utf8`)
     try {
@@ -20222,7 +21447,6 @@ class FakeFS {
       throw error
     }
   }
-
   readJsonSync(p) {
     const content = this.readFileSync(p, `utf8`)
     try {
@@ -20232,7 +21456,6 @@ class FakeFS {
       throw error
     }
   }
-
   async writeJsonPromise(p, data, { compact = false } = {}) {
     const space = compact ? 0 : 2
     return await this.writeFilePromise(
@@ -20241,7 +21464,6 @@ class FakeFS {
 `,
     )
   }
-
   writeJsonSync(p, data, { compact = false } = {}) {
     const space = compact ? 0 : 2
     return this.writeFileSync(
@@ -20250,14 +21472,12 @@ class FakeFS {
 `,
     )
   }
-
   async preserveTimePromise(p, cb) {
     const stat = await this.lstatPromise(p)
     const result = await cb()
     if (typeof result !== `undefined`) p = result
     await this.lutimesPromise(p, stat.atime, stat.mtime)
   }
-
   async preserveTimeSync(p, cb) {
     const stat = this.lstatSync(p)
     const result = cb()
@@ -20265,13 +21485,11 @@ class FakeFS {
     this.lutimesSync(p, stat.atime, stat.mtime)
   }
 }
-
 class BasePortableFakeFS extends FakeFS {
   constructor() {
     super(ppath)
   }
 }
-
 function getEndOfLine(content) {
   const matches = content.match(/\r?\n/g)
   if (matches === null) return os.EOL
@@ -20288,7 +21506,6 @@ function getEndOfLine(content) {
     : `
 `
 }
-
 function normalizeLineEndings(originalContent, newContent) {
   return newContent.replace(/\r?\n/g, getEndOfLine(originalContent))
 }
@@ -20297,44 +21514,35 @@ class ProxiedFS extends FakeFS {
   getExtractHint(hints) {
     return this.baseFs.getExtractHint(hints)
   }
-
   resolve(path) {
     return this.mapFromBase(this.baseFs.resolve(this.mapToBase(path)))
   }
-
   getRealPath() {
     return this.mapFromBase(this.baseFs.getRealPath())
   }
-
   async openPromise(p, flags, mode) {
     return this.baseFs.openPromise(this.mapToBase(p), flags, mode)
   }
-
   openSync(p, flags, mode) {
     return this.baseFs.openSync(this.mapToBase(p), flags, mode)
   }
-
   async opendirPromise(p, opts) {
     return Object.assign(
       await this.baseFs.opendirPromise(this.mapToBase(p), opts),
       { path: p },
     )
   }
-
   opendirSync(p, opts) {
     return Object.assign(this.baseFs.opendirSync(this.mapToBase(p), opts), {
       path: p,
     })
   }
-
   async readPromise(fd, buffer, offset, length, position) {
     return await this.baseFs.readPromise(fd, buffer, offset, length, position)
   }
-
   readSync(fd, buffer, offset, length, position) {
     return this.baseFs.readSync(fd, buffer, offset, length, position)
   }
-
   async writePromise(fd, buffer, offset, length, position) {
     if (typeof buffer === `string`) {
       return await this.baseFs.writePromise(fd, buffer, offset)
@@ -20348,7 +21556,6 @@ class ProxiedFS extends FakeFS {
       )
     }
   }
-
   writeSync(fd, buffer, offset, length, position) {
     if (typeof buffer === `string`) {
       return this.baseFs.writeSync(fd, buffer, offset)
@@ -20356,119 +21563,92 @@ class ProxiedFS extends FakeFS {
       return this.baseFs.writeSync(fd, buffer, offset, length, position)
     }
   }
-
   async closePromise(fd) {
     return this.baseFs.closePromise(fd)
   }
-
   closeSync(fd) {
     this.baseFs.closeSync(fd)
   }
-
   createReadStream(p, opts) {
     return this.baseFs.createReadStream(
       p !== null ? this.mapToBase(p) : p,
       opts,
     )
   }
-
   createWriteStream(p, opts) {
     return this.baseFs.createWriteStream(
       p !== null ? this.mapToBase(p) : p,
       opts,
     )
   }
-
   async realpathPromise(p) {
     return this.mapFromBase(
       await this.baseFs.realpathPromise(this.mapToBase(p)),
     )
   }
-
   realpathSync(p) {
     return this.mapFromBase(this.baseFs.realpathSync(this.mapToBase(p)))
   }
-
   async existsPromise(p) {
     return this.baseFs.existsPromise(this.mapToBase(p))
   }
-
   existsSync(p) {
     return this.baseFs.existsSync(this.mapToBase(p))
   }
-
   accessSync(p, mode) {
     return this.baseFs.accessSync(this.mapToBase(p), mode)
   }
-
   async accessPromise(p, mode) {
     return this.baseFs.accessPromise(this.mapToBase(p), mode)
   }
-
   async statPromise(p, opts) {
     return this.baseFs.statPromise(this.mapToBase(p), opts)
   }
-
   statSync(p, opts) {
     return this.baseFs.statSync(this.mapToBase(p), opts)
   }
-
   async fstatPromise(fd, opts) {
     return this.baseFs.fstatPromise(fd, opts)
   }
-
   fstatSync(fd, opts) {
     return this.baseFs.fstatSync(fd, opts)
   }
-
   lstatPromise(p, opts) {
     return this.baseFs.lstatPromise(this.mapToBase(p), opts)
   }
-
   lstatSync(p, opts) {
     return this.baseFs.lstatSync(this.mapToBase(p), opts)
   }
-
   async fchmodPromise(fd, mask) {
     return this.baseFs.fchmodPromise(fd, mask)
   }
-
   fchmodSync(fd, mask) {
     return this.baseFs.fchmodSync(fd, mask)
   }
-
   async chmodPromise(p, mask) {
     return this.baseFs.chmodPromise(this.mapToBase(p), mask)
   }
-
   chmodSync(p, mask) {
     return this.baseFs.chmodSync(this.mapToBase(p), mask)
   }
-
   async fchownPromise(fd, uid, gid) {
     return this.baseFs.fchownPromise(fd, uid, gid)
   }
-
   fchownSync(fd, uid, gid) {
     return this.baseFs.fchownSync(fd, uid, gid)
   }
-
   async chownPromise(p, uid, gid) {
     return this.baseFs.chownPromise(this.mapToBase(p), uid, gid)
   }
-
   chownSync(p, uid, gid) {
     return this.baseFs.chownSync(this.mapToBase(p), uid, gid)
   }
-
   async renamePromise(oldP, newP) {
     return this.baseFs.renamePromise(this.mapToBase(oldP), this.mapToBase(newP))
   }
-
   renameSync(oldP, newP) {
     return this.baseFs.renameSync(this.mapToBase(oldP), this.mapToBase(newP))
   }
-
   async copyFilePromise(sourceP, destP, flags = 0) {
     return this.baseFs.copyFilePromise(
       this.mapToBase(sourceP),
@@ -20476,7 +21656,6 @@ class ProxiedFS extends FakeFS {
       flags,
     )
   }
-
   copyFileSync(sourceP, destP, flags = 0) {
     return this.baseFs.copyFileSync(
       this.mapToBase(sourceP),
@@ -20484,82 +21663,63 @@ class ProxiedFS extends FakeFS {
       flags,
     )
   }
-
   async appendFilePromise(p, content, opts) {
     return this.baseFs.appendFilePromise(this.fsMapToBase(p), content, opts)
   }
-
   appendFileSync(p, content, opts) {
     return this.baseFs.appendFileSync(this.fsMapToBase(p), content, opts)
   }
-
   async writeFilePromise(p, content, opts) {
     return this.baseFs.writeFilePromise(this.fsMapToBase(p), content, opts)
   }
-
   writeFileSync(p, content, opts) {
     return this.baseFs.writeFileSync(this.fsMapToBase(p), content, opts)
   }
-
   async unlinkPromise(p) {
     return this.baseFs.unlinkPromise(this.mapToBase(p))
   }
-
   unlinkSync(p) {
     return this.baseFs.unlinkSync(this.mapToBase(p))
   }
-
   async utimesPromise(p, atime, mtime) {
     return this.baseFs.utimesPromise(this.mapToBase(p), atime, mtime)
   }
-
   utimesSync(p, atime, mtime) {
     return this.baseFs.utimesSync(this.mapToBase(p), atime, mtime)
   }
-
   async lutimesPromise(p, atime, mtime) {
     return this.baseFs.lutimesPromise(this.mapToBase(p), atime, mtime)
   }
-
   lutimesSync(p, atime, mtime) {
     return this.baseFs.lutimesSync(this.mapToBase(p), atime, mtime)
   }
-
   async mkdirPromise(p, opts) {
     return this.baseFs.mkdirPromise(this.mapToBase(p), opts)
   }
-
   mkdirSync(p, opts) {
     return this.baseFs.mkdirSync(this.mapToBase(p), opts)
   }
-
   async rmdirPromise(p, opts) {
     return this.baseFs.rmdirPromise(this.mapToBase(p), opts)
   }
-
   rmdirSync(p, opts) {
     return this.baseFs.rmdirSync(this.mapToBase(p), opts)
   }
-
   async rmPromise(p, opts) {
     return this.baseFs.rmPromise(this.mapToBase(p), opts)
   }
-
   rmSync(p, opts) {
     return this.baseFs.rmSync(this.mapToBase(p), opts)
   }
-
   async linkPromise(existingP, newP) {
     return this.baseFs.linkPromise(
       this.mapToBase(existingP),
       this.mapToBase(newP),
     )
   }
-
   linkSync(existingP, newP) {
     return this.baseFs.linkSync(this.mapToBase(existingP), this.mapToBase(newP))
   }
-
   async symlinkPromise(target, p, type) {
     const mappedP = this.mapToBase(p)
     if (this.pathUtils.isAbsolute(target))
@@ -20573,7 +21733,6 @@ class ProxiedFS extends FakeFS {
     )
     return this.baseFs.symlinkPromise(mappedTarget, mappedP, type)
   }
-
   symlinkSync(target, p, type) {
     const mappedP = this.mapToBase(p)
     if (this.pathUtils.isAbsolute(target))
@@ -20587,49 +21746,38 @@ class ProxiedFS extends FakeFS {
     )
     return this.baseFs.symlinkSync(mappedTarget, mappedP, type)
   }
-
   async readFilePromise(p, encoding) {
     return this.baseFs.readFilePromise(this.fsMapToBase(p), encoding)
   }
-
   readFileSync(p, encoding) {
     return this.baseFs.readFileSync(this.fsMapToBase(p), encoding)
   }
-
   readdirPromise(p, opts) {
     return this.baseFs.readdirPromise(this.mapToBase(p), opts)
   }
-
   readdirSync(p, opts) {
     return this.baseFs.readdirSync(this.mapToBase(p), opts)
   }
-
   async readlinkPromise(p) {
     return this.mapFromBase(
       await this.baseFs.readlinkPromise(this.mapToBase(p)),
     )
   }
-
   readlinkSync(p) {
     return this.mapFromBase(this.baseFs.readlinkSync(this.mapToBase(p)))
   }
-
   async truncatePromise(p, len) {
     return this.baseFs.truncatePromise(this.mapToBase(p), len)
   }
-
   truncateSync(p, len) {
     return this.baseFs.truncateSync(this.mapToBase(p), len)
   }
-
   async ftruncatePromise(fd, len) {
     return this.baseFs.ftruncatePromise(fd, len)
   }
-
   ftruncateSync(fd, len) {
     return this.baseFs.ftruncateSync(fd, len)
   }
-
   watch(p, a, b) {
     return this.baseFs.watch(
       this.mapToBase(p),
@@ -20638,7 +21786,6 @@ class ProxiedFS extends FakeFS {
       b,
     )
   }
-
   watchFile(p, a, b) {
     return this.baseFs.watchFile(
       this.mapToBase(p),
@@ -20647,11 +21794,9 @@ class ProxiedFS extends FakeFS {
       b,
     )
   }
-
   unwatchFile(p, cb) {
     return this.baseFs.unwatchFile(this.mapToBase(p), cb)
   }
-
   fsMapToBase(p) {
     if (typeof p === `number`) {
       return p
@@ -20667,27 +21812,21 @@ function direntToPortable(dirent) {
     portableDirent.path = npath.toPortablePath(dirent.path)
   return portableDirent
 }
-
 class NodeFS extends BasePortableFakeFS {
   realFs
-
   constructor(realFs = fs__default.default) {
     super()
     this.realFs = realFs
   }
-
   getExtractHint() {
     return false
   }
-
   getRealPath() {
     return PortablePath.root
   }
-
   resolve(p) {
     return ppath.resolve(p)
   }
-
   async openPromise(p, flags, mode) {
     return await new Promise((resolve, reject) => {
       this.realFs.open(
@@ -20698,11 +21837,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   openSync(p, flags, mode) {
     return this.realFs.openSync(npath.fromPortablePath(p), flags, mode)
   }
-
   async opendirPromise(p, opts) {
     return await new Promise((resolve, reject) => {
       if (typeof opts !== `undefined`) {
@@ -20727,7 +21864,6 @@ class NodeFS extends BasePortableFakeFS {
       return dirWithFixedPath
     })
   }
-
   opendirSync(p, opts) {
     const dir =
       typeof opts !== `undefined`
@@ -20741,7 +21877,6 @@ class NodeFS extends BasePortableFakeFS {
     })
     return dirWithFixedPath
   }
-
   async readPromise(fd, buffer, offset = 0, length = 0, position = -1) {
     return await new Promise((resolve, reject) => {
       this.realFs.read(
@@ -20760,11 +21895,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   readSync(fd, buffer, offset, length, position) {
     return this.realFs.readSync(fd, buffer, offset, length, position)
   }
-
   async writePromise(fd, buffer, offset, length, position) {
     return await new Promise((resolve, reject) => {
       if (typeof buffer === `string`) {
@@ -20786,7 +21919,6 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   writeSync(fd, buffer, offset, length, position) {
     if (typeof buffer === `string`) {
       return this.realFs.writeSync(fd, buffer, offset)
@@ -20794,27 +21926,22 @@ class NodeFS extends BasePortableFakeFS {
       return this.realFs.writeSync(fd, buffer, offset, length, position)
     }
   }
-
   async closePromise(fd) {
     await new Promise((resolve, reject) => {
       this.realFs.close(fd, this.makeCallback(resolve, reject))
     })
   }
-
   closeSync(fd) {
     this.realFs.closeSync(fd)
   }
-
   createReadStream(p, opts) {
     const realPath = p !== null ? npath.fromPortablePath(p) : p
     return this.realFs.createReadStream(realPath, opts)
   }
-
   createWriteStream(p, opts) {
     const realPath = p !== null ? npath.fromPortablePath(p) : p
     return this.realFs.createWriteStream(realPath, opts)
   }
-
   async realpathPromise(p) {
     return await new Promise((resolve, reject) => {
       this.realFs.realpath(
@@ -20826,23 +21953,19 @@ class NodeFS extends BasePortableFakeFS {
       return npath.toPortablePath(path)
     })
   }
-
   realpathSync(p) {
     return npath.toPortablePath(
       this.realFs.realpathSync(npath.fromPortablePath(p), {}),
     )
   }
-
   async existsPromise(p) {
     return await new Promise((resolve) => {
       this.realFs.exists(npath.fromPortablePath(p), resolve)
     })
   }
-
   accessSync(p, mode) {
     return this.realFs.accessSync(npath.fromPortablePath(p), mode)
   }
-
   async accessPromise(p, mode) {
     return await new Promise((resolve, reject) => {
       this.realFs.access(
@@ -20852,11 +21975,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   existsSync(p) {
     return this.realFs.existsSync(npath.fromPortablePath(p))
   }
-
   async statPromise(p, opts) {
     return await new Promise((resolve, reject) => {
       if (opts) {
@@ -20873,7 +21994,6 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   statSync(p, opts) {
     if (opts) {
       return this.realFs.statSync(npath.fromPortablePath(p), opts)
@@ -20881,7 +22001,6 @@ class NodeFS extends BasePortableFakeFS {
       return this.realFs.statSync(npath.fromPortablePath(p))
     }
   }
-
   async fstatPromise(fd, opts) {
     return await new Promise((resolve, reject) => {
       if (opts) {
@@ -20891,7 +22010,6 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   fstatSync(fd, opts) {
     if (opts) {
       return this.realFs.fstatSync(fd, opts)
@@ -20899,7 +22017,6 @@ class NodeFS extends BasePortableFakeFS {
       return this.realFs.fstatSync(fd)
     }
   }
-
   async lstatPromise(p, opts) {
     return await new Promise((resolve, reject) => {
       if (opts) {
@@ -20916,7 +22033,6 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   lstatSync(p, opts) {
     if (opts) {
       return this.realFs.lstatSync(npath.fromPortablePath(p), opts)
@@ -20924,17 +22040,14 @@ class NodeFS extends BasePortableFakeFS {
       return this.realFs.lstatSync(npath.fromPortablePath(p))
     }
   }
-
   async fchmodPromise(fd, mask) {
     return await new Promise((resolve, reject) => {
       this.realFs.fchmod(fd, mask, this.makeCallback(resolve, reject))
     })
   }
-
   fchmodSync(fd, mask) {
     return this.realFs.fchmodSync(fd, mask)
   }
-
   async chmodPromise(p, mask) {
     return await new Promise((resolve, reject) => {
       this.realFs.chmod(
@@ -20944,21 +22057,17 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   chmodSync(p, mask) {
     return this.realFs.chmodSync(npath.fromPortablePath(p), mask)
   }
-
   async fchownPromise(fd, uid, gid) {
     return await new Promise((resolve, reject) => {
       this.realFs.fchown(fd, uid, gid, this.makeCallback(resolve, reject))
     })
   }
-
   fchownSync(fd, uid, gid) {
     return this.realFs.fchownSync(fd, uid, gid)
   }
-
   async chownPromise(p, uid, gid) {
     return await new Promise((resolve, reject) => {
       this.realFs.chown(
@@ -20969,11 +22078,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   chownSync(p, uid, gid) {
     return this.realFs.chownSync(npath.fromPortablePath(p), uid, gid)
   }
-
   async renamePromise(oldP, newP) {
     return await new Promise((resolve, reject) => {
       this.realFs.rename(
@@ -20983,14 +22090,12 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   renameSync(oldP, newP) {
     return this.realFs.renameSync(
       npath.fromPortablePath(oldP),
       npath.fromPortablePath(newP),
     )
   }
-
   async copyFilePromise(sourceP, destP, flags = 0) {
     return await new Promise((resolve, reject) => {
       this.realFs.copyFile(
@@ -21001,7 +22106,6 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   copyFileSync(sourceP, destP, flags = 0) {
     return this.realFs.copyFileSync(
       npath.fromPortablePath(sourceP),
@@ -21009,7 +22113,6 @@ class NodeFS extends BasePortableFakeFS {
       flags,
     )
   }
-
   async appendFilePromise(p, content, opts) {
     return await new Promise((resolve, reject) => {
       const fsNativePath = typeof p === `string` ? npath.fromPortablePath(p) : p
@@ -21029,7 +22132,6 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   appendFileSync(p, content, opts) {
     const fsNativePath = typeof p === `string` ? npath.fromPortablePath(p) : p
     if (opts) {
@@ -21038,7 +22140,6 @@ class NodeFS extends BasePortableFakeFS {
       this.realFs.appendFileSync(fsNativePath, content)
     }
   }
-
   async writeFilePromise(p, content, opts) {
     return await new Promise((resolve, reject) => {
       const fsNativePath = typeof p === `string` ? npath.fromPortablePath(p) : p
@@ -21058,7 +22159,6 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   writeFileSync(p, content, opts) {
     const fsNativePath = typeof p === `string` ? npath.fromPortablePath(p) : p
     if (opts) {
@@ -21067,7 +22167,6 @@ class NodeFS extends BasePortableFakeFS {
       this.realFs.writeFileSync(fsNativePath, content)
     }
   }
-
   async unlinkPromise(p) {
     return await new Promise((resolve, reject) => {
       this.realFs.unlink(
@@ -21076,11 +22175,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   unlinkSync(p) {
     return this.realFs.unlinkSync(npath.fromPortablePath(p))
   }
-
   async utimesPromise(p, atime, mtime) {
     return await new Promise((resolve, reject) => {
       this.realFs.utimes(
@@ -21091,11 +22188,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   utimesSync(p, atime, mtime) {
     this.realFs.utimesSync(npath.fromPortablePath(p), atime, mtime)
   }
-
   async lutimesPromise(p, atime, mtime) {
     return await new Promise((resolve, reject) => {
       this.realFs.lutimes(
@@ -21106,11 +22201,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   lutimesSync(p, atime, mtime) {
     this.realFs.lutimesSync(npath.fromPortablePath(p), atime, mtime)
   }
-
   async mkdirPromise(p, opts) {
     return await new Promise((resolve, reject) => {
       this.realFs.mkdir(
@@ -21120,11 +22213,9 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   mkdirSync(p, opts) {
     return this.realFs.mkdirSync(npath.fromPortablePath(p), opts)
   }
-
   async rmdirPromise(p, opts) {
     return await new Promise((resolve, reject) => {
       if (opts) {
@@ -21141,11 +22232,9 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   rmdirSync(p, opts) {
     return this.realFs.rmdirSync(npath.fromPortablePath(p), opts)
   }
-
   async rmPromise(p, opts) {
     return await new Promise((resolve, reject) => {
       if (opts) {
@@ -21162,11 +22251,9 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   rmSync(p, opts) {
     return this.realFs.rmSync(npath.fromPortablePath(p), opts)
   }
-
   async linkPromise(existingP, newP) {
     return await new Promise((resolve, reject) => {
       this.realFs.link(
@@ -21176,14 +22263,12 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   linkSync(existingP, newP) {
     return this.realFs.linkSync(
       npath.fromPortablePath(existingP),
       npath.fromPortablePath(newP),
     )
   }
-
   async symlinkPromise(target, p, type) {
     return await new Promise((resolve, reject) => {
       this.realFs.symlink(
@@ -21194,7 +22279,6 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   symlinkSync(target, p, type) {
     return this.realFs.symlinkSync(
       npath.fromPortablePath(target.replace(/\/+$/, ``)),
@@ -21202,7 +22286,6 @@ class NodeFS extends BasePortableFakeFS {
       type,
     )
   }
-
   async readFilePromise(p, encoding) {
     return await new Promise((resolve, reject) => {
       const fsNativePath = typeof p === `string` ? npath.fromPortablePath(p) : p
@@ -21213,12 +22296,10 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   readFileSync(p, encoding) {
     const fsNativePath = typeof p === `string` ? npath.fromPortablePath(p) : p
     return this.realFs.readFileSync(fsNativePath, encoding)
   }
-
   async readdirPromise(p, opts) {
     return await new Promise((resolve, reject) => {
       if (opts) {
@@ -21257,7 +22338,6 @@ class NodeFS extends BasePortableFakeFS {
       }
     })
   }
-
   readdirSync(p, opts) {
     if (opts) {
       if (opts.recursive && process.platform === `win32`) {
@@ -21277,7 +22357,6 @@ class NodeFS extends BasePortableFakeFS {
       return this.realFs.readdirSync(npath.fromPortablePath(p))
     }
   }
-
   async readlinkPromise(p) {
     return await new Promise((resolve, reject) => {
       this.realFs.readlink(
@@ -21288,13 +22367,11 @@ class NodeFS extends BasePortableFakeFS {
       return npath.toPortablePath(path)
     })
   }
-
   readlinkSync(p) {
     return npath.toPortablePath(
       this.realFs.readlinkSync(npath.fromPortablePath(p)),
     )
   }
-
   async truncatePromise(p, len) {
     return await new Promise((resolve, reject) => {
       this.realFs.truncate(
@@ -21304,21 +22381,17 @@ class NodeFS extends BasePortableFakeFS {
       )
     })
   }
-
   truncateSync(p, len) {
     return this.realFs.truncateSync(npath.fromPortablePath(p), len)
   }
-
   async ftruncatePromise(fd, len) {
     return await new Promise((resolve, reject) => {
       this.realFs.ftruncate(fd, len, this.makeCallback(resolve, reject))
     })
   }
-
   ftruncateSync(fd, len) {
     return this.realFs.ftruncateSync(fd, len)
   }
-
   watch(p, a, b) {
     return this.realFs.watch(
       npath.fromPortablePath(p),
@@ -21327,7 +22400,6 @@ class NodeFS extends BasePortableFakeFS {
       b,
     )
   }
-
   watchFile(p, a, b) {
     return this.realFs.watchFile(
       npath.fromPortablePath(p),
@@ -21336,11 +22408,9 @@ class NodeFS extends BasePortableFakeFS {
       b,
     )
   }
-
   unwatchFile(p, cb) {
     return this.realFs.unwatchFile(npath.fromPortablePath(p), cb)
   }
-
   makeCallback(resolve, reject) {
     return (err, result) => {
       if (err) {
@@ -21353,7 +22423,6 @@ class NodeFS extends BasePortableFakeFS {
 }
 
 const MOUNT_MASK = 4278190080
-
 class MountFS extends BasePortableFakeFS {
   baseFs
   mountInstances
@@ -21370,7 +22439,6 @@ class MountFS extends BasePortableFakeFS {
   isMount = /* @__PURE__ */ new Set()
   notMount = /* @__PURE__ */ new Set()
   realPaths = /* @__PURE__ */ new Map()
-  limitOpenFilesTimeout = null
 
   constructor({
     baseFs = new NodeFS(),
@@ -21403,15 +22471,12 @@ class MountFS extends BasePortableFakeFS {
     this.maxOpenFiles = maxOpenFiles
     this.typeCheck = typeCheck
   }
-
   getExtractHint(hints) {
     return this.baseFs.getExtractHint(hints)
   }
-
   getRealPath() {
     return this.baseFs.getRealPath()
   }
-
   saveAndClose() {
     unwatchAllFiles(this)
     if (this.mountInstances) {
@@ -21421,7 +22486,6 @@ class MountFS extends BasePortableFakeFS {
       }
     }
   }
-
   discardAndClose() {
     unwatchAllFiles(this)
     if (this.mountInstances) {
@@ -21431,17 +22495,14 @@ class MountFS extends BasePortableFakeFS {
       }
     }
   }
-
   resolve(p) {
     return this.baseFs.resolve(p)
   }
-
   remapFd(mountFs, fd) {
     const remappedFd = this.nextFd++ | this.magic
     this.fdMap.set(remappedFd, [mountFs, fd])
     return remappedFd
   }
-
   async openPromise(p, flags, mode) {
     return await this.makeCallPromise(
       p,
@@ -21456,7 +22517,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   openSync(p, flags, mode) {
     return this.makeCallSync(
       p,
@@ -21468,7 +22528,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async opendirPromise(p, opts) {
     return await this.makeCallPromise(
       p,
@@ -21483,7 +22542,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   opendirSync(p, opts) {
     return this.makeCallSync(
       p,
@@ -21498,7 +22556,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async readPromise(fd, buffer, offset, length, position) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return await this.baseFs.readPromise(fd, buffer, offset, length, position)
@@ -21507,7 +22564,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return await mountFs.readPromise(realFd, buffer, offset, length, position)
   }
-
   readSync(fd, buffer, offset, length, position) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.readSync(fd, buffer, offset, length, position)
@@ -21516,7 +22572,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.readSync(realFd, buffer, offset, length, position)
   }
-
   async writePromise(fd, buffer, offset, length, position) {
     if ((fd & MOUNT_MASK) !== this.magic) {
       if (typeof buffer === `string`) {
@@ -21546,7 +22601,6 @@ class MountFS extends BasePortableFakeFS {
       )
     }
   }
-
   writeSync(fd, buffer, offset, length, position) {
     if ((fd & MOUNT_MASK) !== this.magic) {
       if (typeof buffer === `string`) {
@@ -21564,7 +22618,6 @@ class MountFS extends BasePortableFakeFS {
       return mountFs.writeSync(realFd, buffer, offset, length, position)
     }
   }
-
   async closePromise(fd) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return await this.baseFs.closePromise(fd)
@@ -21574,7 +22627,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return await mountFs.closePromise(realFd)
   }
-
   closeSync(fd) {
     if ((fd & MOUNT_MASK) !== this.magic) return this.baseFs.closeSync(fd)
     const entry = this.fdMap.get(fd)
@@ -21583,7 +22635,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.closeSync(realFd)
   }
-
   createReadStream(p, opts) {
     if (p === null) return this.baseFs.createReadStream(p, opts)
     return this.makeCallSync(
@@ -21600,7 +22651,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   createWriteStream(p, opts) {
     if (p === null) return this.baseFs.createWriteStream(p, opts)
     return this.makeCallSync(
@@ -21613,7 +22663,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async realpathPromise(p) {
     return await this.makeCallPromise(
       p,
@@ -21636,7 +22685,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   realpathSync(p) {
     return this.makeCallSync(
       p,
@@ -21659,7 +22707,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async existsPromise(p) {
     return await this.makeCallPromise(
       p,
@@ -21671,7 +22718,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   existsSync(p) {
     return this.makeCallSync(
       p,
@@ -21683,7 +22729,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async accessPromise(p, mode) {
     return await this.makeCallPromise(
       p,
@@ -21695,7 +22740,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   accessSync(p, mode) {
     return this.makeCallSync(
       p,
@@ -21707,7 +22751,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async statPromise(p, opts) {
     return await this.makeCallPromise(
       p,
@@ -21719,7 +22762,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   statSync(p, opts) {
     return this.makeCallSync(
       p,
@@ -21731,7 +22773,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async fstatPromise(fd, opts) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.fstatPromise(fd, opts)
@@ -21740,7 +22781,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.fstatPromise(realFd, opts)
   }
-
   fstatSync(fd, opts) {
     if ((fd & MOUNT_MASK) !== this.magic) return this.baseFs.fstatSync(fd, opts)
     const entry = this.fdMap.get(fd)
@@ -21748,7 +22788,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.fstatSync(realFd, opts)
   }
-
   async lstatPromise(p, opts) {
     return await this.makeCallPromise(
       p,
@@ -21760,7 +22799,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   lstatSync(p, opts) {
     return this.makeCallSync(
       p,
@@ -21772,7 +22810,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async fchmodPromise(fd, mask) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.fchmodPromise(fd, mask)
@@ -21781,7 +22818,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.fchmodPromise(realFd, mask)
   }
-
   fchmodSync(fd, mask) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.fchmodSync(fd, mask)
@@ -21790,7 +22826,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.fchmodSync(realFd, mask)
   }
-
   async chmodPromise(p, mask) {
     return await this.makeCallPromise(
       p,
@@ -21802,7 +22837,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   chmodSync(p, mask) {
     return this.makeCallSync(
       p,
@@ -21814,7 +22848,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async fchownPromise(fd, uid, gid) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.fchownPromise(fd, uid, gid)
@@ -21823,7 +22856,6 @@ class MountFS extends BasePortableFakeFS {
     const [zipFs, realFd] = entry
     return zipFs.fchownPromise(realFd, uid, gid)
   }
-
   fchownSync(fd, uid, gid) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.fchownSync(fd, uid, gid)
@@ -21832,7 +22864,6 @@ class MountFS extends BasePortableFakeFS {
     const [zipFs, realFd] = entry
     return zipFs.fchownSync(realFd, uid, gid)
   }
-
   async chownPromise(p, uid, gid) {
     return await this.makeCallPromise(
       p,
@@ -21844,7 +22875,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   chownSync(p, uid, gid) {
     return this.makeCallSync(
       p,
@@ -21856,7 +22886,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async renamePromise(oldP, newP) {
     return await this.makeCallPromise(
       oldP,
@@ -21897,7 +22926,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   renameSync(oldP, newP) {
     return this.makeCallSync(
       oldP,
@@ -21938,7 +22966,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async copyFilePromise(sourceP, destP, flags = 0) {
     const fallback = async (sourceFs, sourceP2, destFs, destP2) => {
       if ((flags & fs.constants.COPYFILE_FICLONE_FORCE) !== 0)
@@ -22001,7 +23028,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   copyFileSync(sourceP, destP, flags = 0) {
     const fallback = (sourceFs, sourceP2, destFs, destP2) => {
       if ((flags & fs.constants.COPYFILE_FICLONE_FORCE) !== 0)
@@ -22061,7 +23087,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async appendFilePromise(p, content, opts) {
     return await this.makeCallPromise(
       p,
@@ -22073,7 +23098,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   appendFileSync(p, content, opts) {
     return this.makeCallSync(
       p,
@@ -22085,7 +23109,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async writeFilePromise(p, content, opts) {
     return await this.makeCallPromise(
       p,
@@ -22097,7 +23120,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   writeFileSync(p, content, opts) {
     return this.makeCallSync(
       p,
@@ -22109,7 +23131,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async unlinkPromise(p) {
     return await this.makeCallPromise(
       p,
@@ -22121,7 +23142,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   unlinkSync(p) {
     return this.makeCallSync(
       p,
@@ -22133,7 +23153,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async utimesPromise(p, atime, mtime) {
     return await this.makeCallPromise(
       p,
@@ -22145,7 +23164,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   utimesSync(p, atime, mtime) {
     return this.makeCallSync(
       p,
@@ -22157,7 +23175,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async lutimesPromise(p, atime, mtime) {
     return await this.makeCallPromise(
       p,
@@ -22169,7 +23186,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   lutimesSync(p, atime, mtime) {
     return this.makeCallSync(
       p,
@@ -22181,7 +23197,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async mkdirPromise(p, opts) {
     return await this.makeCallPromise(
       p,
@@ -22193,7 +23208,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   mkdirSync(p, opts) {
     return this.makeCallSync(
       p,
@@ -22205,7 +23219,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async rmdirPromise(p, opts) {
     return await this.makeCallPromise(
       p,
@@ -22217,7 +23230,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   rmdirSync(p, opts) {
     return this.makeCallSync(
       p,
@@ -22229,7 +23241,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async rmPromise(p, opts) {
     return await this.makeCallPromise(
       p,
@@ -22241,7 +23252,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   rmSync(p, opts) {
     return this.makeCallSync(
       p,
@@ -22253,7 +23263,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async linkPromise(existingP, newP) {
     return await this.makeCallPromise(
       newP,
@@ -22265,7 +23274,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   linkSync(existingP, newP) {
     return this.makeCallSync(
       newP,
@@ -22277,7 +23285,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async symlinkPromise(target, p, type) {
     return await this.makeCallPromise(
       p,
@@ -22289,7 +23296,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   symlinkSync(target, p, type) {
     return this.makeCallSync(
       p,
@@ -22301,7 +23307,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async readFilePromise(p, encoding) {
     return this.makeCallPromise(
       p,
@@ -22313,7 +23318,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   readFileSync(p, encoding) {
     return this.makeCallSync(
       p,
@@ -22325,7 +23329,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async readdirPromise(p, opts) {
     return await this.makeCallPromise(
       p,
@@ -22340,7 +23343,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   readdirSync(p, opts) {
     return this.makeCallSync(
       p,
@@ -22355,7 +23357,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async readlinkPromise(p) {
     return await this.makeCallPromise(
       p,
@@ -22367,7 +23368,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   readlinkSync(p) {
     return this.makeCallSync(
       p,
@@ -22379,7 +23379,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async truncatePromise(p, len) {
     return await this.makeCallPromise(
       p,
@@ -22391,7 +23390,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   truncateSync(p, len) {
     return this.makeCallSync(
       p,
@@ -22403,7 +23401,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async ftruncatePromise(fd, len) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.ftruncatePromise(fd, len)
@@ -22412,7 +23409,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.ftruncatePromise(realFd, len)
   }
-
   ftruncateSync(fd, len) {
     if ((fd & MOUNT_MASK) !== this.magic)
       return this.baseFs.ftruncateSync(fd, len)
@@ -22421,7 +23417,6 @@ class MountFS extends BasePortableFakeFS {
     const [mountFs, realFd] = entry
     return mountFs.ftruncateSync(realFd, len)
   }
-
   watch(p, a, b) {
     return this.makeCallSync(
       p,
@@ -22443,7 +23438,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   watchFile(p, a, b) {
     return this.makeCallSync(
       p,
@@ -22460,7 +23454,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   unwatchFile(p, cb) {
     return this.makeCallSync(
       p,
@@ -22472,7 +23465,6 @@ class MountFS extends BasePortableFakeFS {
       },
     )
   }
-
   async makeCallPromise(p, discard, accept, { requireSubpath = true } = {}) {
     if (typeof p !== `string`) return await discard()
     const normalizedP = this.resolve(p)
@@ -22484,7 +23476,6 @@ class MountFS extends BasePortableFakeFS {
       async (mountFs) => await accept(mountFs, mountInfo),
     )
   }
-
   makeCallSync(p, discard, accept, { requireSubpath = true } = {}) {
     if (typeof p !== `string`) return discard()
     const normalizedP = this.resolve(p)
@@ -22495,7 +23486,6 @@ class MountFS extends BasePortableFakeFS {
       accept(mountFs, mountInfo),
     )
   }
-
   findMount(p) {
     if (this.filter && !this.filter.test(p)) return null
     let filePath = ``
@@ -22530,6 +23520,7 @@ class MountFS extends BasePortableFakeFS {
     }
   }
 
+  limitOpenFilesTimeout = null
   limitOpenFiles(max) {
     if (this.mountInstances === null) return
     const now = Date.now()
@@ -22565,7 +23556,6 @@ class MountFS extends BasePortableFakeFS {
       }, nextExpiresAt - now).unref()
     }
   }
-
   async getMountPromise(p, accept) {
     if (this.mountInstances) {
       let cachedMountFs = this.mountInstances.get(p)
@@ -22599,7 +23589,6 @@ class MountFS extends BasePortableFakeFS {
       }
     }
   }
-
   getMountSync(p, accept) {
     if (this.mountInstances) {
       let cachedMountFs = this.mountInstances.get(p)
@@ -22628,16 +23617,13 @@ class MountFS extends BasePortableFakeFS {
 
 class PosixFS extends ProxiedFS {
   baseFs
-
   constructor(baseFs) {
     super(npath)
     this.baseFs = baseFs
   }
-
   mapFromBase(path) {
     return npath.fromPortablePath(path)
   }
-
   mapToBase(path) {
     return npath.toPortablePath(path)
   }
@@ -22647,15 +23633,8 @@ const NUMBER_REGEXP = /^[0-9]+$/
 const VIRTUAL_REGEXP =
   /^(\/(?:[^/]+\/)*?(?:\$\$virtual|__virtual__))((?:\/((?:[^/]+-)?[a-f0-9]+)(?:\/([^/]+))?)?((?:\/.*)?))$/
 const VALID_COMPONENT = /^([^/]+-)?[a-f0-9]+$/
-
 class VirtualFS extends ProxiedFS {
   baseFs
-
-  constructor({ baseFs = new NodeFS() } = {}) {
-    super(ppath)
-    this.baseFs = baseFs
-  }
-
   static makeVirtualPath(base, component, to) {
     if (ppath.basename(base) !== `__virtual__`)
       throw new Error(
@@ -22678,7 +23657,6 @@ class VirtualFS extends ProxiedFS {
     )
     return fullVirtualPath
   }
-
   static resolveVirtual(p) {
     const match = p.match(VIRTUAL_REGEXP)
     if (!match || (!match[3] && match[5])) return p
@@ -22692,14 +23670,16 @@ class VirtualFS extends ProxiedFS {
     return VirtualFS.resolveVirtual(ppath.join(target, backstep, subpath))
   }
 
+  constructor({ baseFs = new NodeFS() } = {}) {
+    super(ppath)
+    this.baseFs = baseFs
+  }
   getExtractHint(hints) {
     return this.baseFs.getExtractHint(hints)
   }
-
   getRealPath() {
     return this.baseFs.getRealPath()
   }
-
   realpathSync(p) {
     const match = p.match(VIRTUAL_REGEXP)
     if (!match) return this.baseFs.realpathSync(p)
@@ -22707,7 +23687,6 @@ class VirtualFS extends ProxiedFS {
     const realpath = this.baseFs.realpathSync(this.mapToBase(p))
     return VirtualFS.makeVirtualPath(match[1], match[3], realpath)
   }
-
   async realpathPromise(p) {
     const match = p.match(VIRTUAL_REGEXP)
     if (!match) return await this.baseFs.realpathPromise(p)
@@ -22715,7 +23694,6 @@ class VirtualFS extends ProxiedFS {
     const realpath = await this.baseFs.realpathPromise(this.mapToBase(p))
     return VirtualFS.makeVirtualPath(match[1], match[3], realpath)
   }
-
   mapToBase(p) {
     if (p === ``) return p
     if (this.pathUtils.isAbsolute(p)) return VirtualFS.resolveVirtual(p)
@@ -22725,7 +23703,6 @@ class VirtualFS extends ProxiedFS {
     const resolvedP = VirtualFS.resolveVirtual(this.baseFs.resolve(p))
     return ppath.relative(resolvedRoot, resolvedP) || PortablePath.dot
   }
-
   mapFromBase(p) {
     return p
   }
@@ -22736,16 +23713,13 @@ const URL =
 
 class NodePathFS extends ProxiedFS {
   baseFs
-
   constructor(baseFs) {
     super(npath)
     this.baseFs = baseFs
   }
-
   mapFromBase(path) {
     return path
   }
-
   mapToBase(path) {
     if (typeof path === `string`) return path
     if (path instanceof URL) return url.fileURLToPath(path)
@@ -22760,7 +23734,6 @@ class NodePathFS extends ProxiedFS {
     throw new Error(`Unsupported path type: ${nodeUtils.inspect(path)}`)
   }
 }
-
 function isUtf8(buf, str) {
   if (typeof buffer__default.default.isUtf8 !== `undefined`)
     return buffer__default.default.isUtf8(buf)
@@ -22775,7 +23748,6 @@ const kCloseReject = Symbol(`kCloseReject`)
 const kRefs = Symbol(`kRefs`)
 const kRef = Symbol(`kRef`)
 const kUnref = Symbol(`kUnref`)
-
 class FileHandle {
   [kBaseFs];
   [kFd];
@@ -22783,16 +23755,13 @@ class FileHandle {
   [kClosePromise] = void 0;
   [kCloseResolve] = void 0;
   [kCloseReject] = void 0
-
   constructor(fd, baseFs) {
     this[kBaseFs] = baseFs
     this[kFd] = fd
   }
-
   get fd() {
     return this[kFd]
   }
-
   async appendFile(data, options) {
     try {
       this[kRef](this.appendFile)
@@ -22807,7 +23776,6 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   async chown(uid, gid) {
     try {
       this[kRef](this.chown)
@@ -22816,7 +23784,6 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   async chmod(mode) {
     try {
       this[kRef](this.chmod)
@@ -22825,25 +23792,20 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   createReadStream(options) {
     return this[kBaseFs].createReadStream(null, { ...options, fd: this.fd })
   }
-
   createWriteStream(options) {
     return this[kBaseFs].createWriteStream(null, { ...options, fd: this.fd })
   }
-
   // FIXME: Missing FakeFS version
   datasync() {
     throw new Error(`Method not implemented.`)
   }
-
   // FIXME: Missing FakeFS version
   sync() {
     throw new Error(`Method not implemented.`)
   }
-
   async read(bufferOrOptions, offset, length, position) {
     try {
       this[kRef](this.read)
@@ -22880,7 +23842,6 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   async readFile(options) {
     try {
       this[kRef](this.readFile)
@@ -22891,14 +23852,12 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   readLines(options) {
     return readline.createInterface({
       input: this.createReadStream(options),
       crlfDelay: Infinity,
     })
   }
-
   async stat(opts) {
     try {
       this[kRef](this.stat)
@@ -22907,7 +23866,6 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   async truncate(len) {
     try {
       this[kRef](this.truncate)
@@ -22916,12 +23874,10 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   // FIXME: Missing FakeFS version
   utimes(atime, mtime) {
     throw new Error(`Method not implemented.`)
   }
-
   async writeFile(data, options) {
     try {
       this[kRef](this.writeFile)
@@ -22932,7 +23888,6 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   async write(...args) {
     try {
       this[kRef](this.write)
@@ -22960,7 +23915,6 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   // TODO: Use writev from FakeFS when that is implemented
   async writev(buffers, position) {
     try {
@@ -22986,12 +23940,10 @@ class FileHandle {
       this[kUnref]()
     }
   }
-
   // FIXME: Missing FakeFS version
   readv(buffers, position) {
     throw new Error(`Method not implemented.`)
   }
-
   close() {
     if (this[kFd] === -1) return Promise.resolve()
     if (this[kClosePromise]) return this[kClosePromise]
@@ -23014,7 +23966,6 @@ class FileHandle {
     }
     return this[kClosePromise]
   }
-
   [kRef](caller) {
     if (this[kFd] === -1) {
       const err = new Error(`file closed`)
@@ -23024,7 +23975,6 @@ class FileHandle {
     }
     this[kRefs]++
   }
-
   [kUnref]() {
     this[kRefs]--
     if (this[kRefs] === 0) {
@@ -23108,7 +24058,6 @@ const ASYNC_IMPLEMENTATIONS = /* @__PURE__ */ new Set([
   `writeFilePromise`,
   `writeSync`,
 ])
-
 function patchFs(patchedFs, fakeFs) {
   fakeFs = new NodePathFS(fakeFs)
   const setupFn = (target, name, replacement) => {
@@ -23269,11 +24218,9 @@ let registeredFactory = () => {
     `Assertion failed: No libzip instance is available, and no factory was configured`,
   )
 }
-
 function setFactory(factory) {
   registeredFactory = factory
 }
-
 function getInstance() {
   if (typeof cachedInstance === `undefined`)
     cachedInstance = registeredFactory()
@@ -24254,8 +25201,15 @@ function getArchivePart(path, extension) {
   if (path.length > nextCharIdx && path[nextCharIdx] !== ppath.sep) return null
   return path.slice(0, nextCharIdx)
 }
-
 class ZipOpenFS extends MountFS {
+  static async openPromise(fn, opts) {
+    const zipOpenFs = new ZipOpenFS(opts)
+    try {
+      return await fn(zipOpenFs)
+    } finally {
+      zipOpenFs.saveAndClose()
+    }
+  }
   constructor(opts = {}) {
     const fileExtensions = opts.fileExtensions
     const readOnlyArchives = opts.readOnlyArchives
@@ -24295,19 +25249,9 @@ class ZipOpenFS extends MountFS {
       getMountPoint,
     })
   }
-
-  static async openPromise(fn, opts) {
-    const zipOpenFs = new ZipOpenFS(opts)
-    try {
-      return await fn(zipOpenFs)
-    } finally {
-      zipOpenFs.saveAndClose()
-    }
-  }
 }
 
 const DEFAULT_COMPRESSION_LEVEL = `mixed`
-
 function toUnixTimestamp(time) {
   if (typeof time === `string` && String(+time) === time) return +time
   if (typeof time === `number` && Number.isFinite(time)) {
@@ -24320,23 +25264,19 @@ function toUnixTimestamp(time) {
   if (nodeUtils.types.isDate(time)) return time.getTime() / 1e3
   throw new Error(`Invalid time`)
 }
-
 function makeEmptyArchive() {
   return Buffer.from([
     80, 75, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
   ])
 }
-
 class LibzipError extends Error {
   code
-
   constructor(message, code) {
     super(message)
     this.name = `Libzip Error`
     this.code = code
   }
 }
-
 class ZipFS extends BasePortableFakeFS {
   libzip
   baseFs
@@ -24358,7 +25298,6 @@ class ZipFS extends BasePortableFakeFS {
   nextFd = 0
   ready = false
   readOnly = false
-
   constructor(source, opts = {}) {
     super()
     const pathOptions = opts
@@ -24439,7 +25378,6 @@ class ZipFS extends BasePortableFakeFS {
       throw this.makeLibzipError(this.libzip.getError(this.zip))
     this.ready = true
   }
-
   makeLibzipError(error) {
     const errorCode = this.libzip.struct.errorCodeZip(error)
     const strerror = this.libzip.error.strerror(error)
@@ -24450,7 +25388,6 @@ class ZipFS extends BasePortableFakeFS {
       )
     return libzipError
   }
-
   getExtractHint(hints) {
     for (const fileName of this.entries.keys()) {
       const ext = this.pathUtils.extname(fileName)
@@ -24460,22 +25397,18 @@ class ZipFS extends BasePortableFakeFS {
     }
     return false
   }
-
   getAllFiles() {
     return Array.from(this.entries.keys())
   }
-
   getRealPath() {
     if (!this.path)
       throw new Error(`ZipFS don't have real paths when loaded from a buffer`)
     return this.path
   }
-
   prepareClose() {
     if (!this.ready) throw EBUSY(`archive closed, close`)
     unwatchAllFiles(this)
   }
-
   getBufferAndClose() {
     this.prepareClose()
     if (this.entries.size === 0) {
@@ -24527,13 +25460,11 @@ class ZipFS extends BasePortableFakeFS {
       this.ready = false
     }
   }
-
   discardAndClose() {
     this.prepareClose()
     this.libzip.discard(this.zip)
     this.ready = false
   }
-
   saveAndClose() {
     if (!this.path || !this.baseFs)
       throw new Error(
@@ -24552,29 +25483,23 @@ class ZipFS extends BasePortableFakeFS {
     })
     this.ready = false
   }
-
   resolve(p) {
     return ppath.resolve(PortablePath.root, p)
   }
-
   async openPromise(p, flags, mode) {
     return this.openSync(p, flags, mode)
   }
-
   openSync(p, flags, mode) {
     const fd = this.nextFd++
     this.fds.set(fd, { cursor: 0, p })
     return fd
   }
-
   hasOpenFileHandles() {
     return !!this.fds.size
   }
-
   async opendirPromise(p, opts) {
     return this.opendirSync(p, opts)
   }
-
   opendirSync(p, opts = {}) {
     const resolvedP = this.resolveFilename(`opendir '${p}'`, p)
     if (!this.entries.has(resolvedP) && !this.listings.has(resolvedP))
@@ -24588,11 +25513,9 @@ class ZipFS extends BasePortableFakeFS {
     }
     return opendir(this, resolvedP, entries, { onClose })
   }
-
   async readPromise(fd, buffer, offset, length, position) {
     return this.readSync(fd, buffer, offset, length, position)
   }
-
   readSync(fd, buffer, offset = 0, length = buffer.byteLength, position = -1) {
     const entry = this.fds.get(fd)
     if (typeof entry === `undefined`) throw EBADF(`read`)
@@ -24607,7 +25530,6 @@ class ZipFS extends BasePortableFakeFS {
     if (position === -1 || position === null) entry.cursor += bytesRead
     return bytesRead
   }
-
   async writePromise(fd, buffer, offset, length, position) {
     if (typeof buffer === `string`) {
       return this.writeSync(fd, buffer, position)
@@ -24615,23 +25537,19 @@ class ZipFS extends BasePortableFakeFS {
       return this.writeSync(fd, buffer, offset, length, position)
     }
   }
-
   writeSync(fd, buffer, offset, length, position) {
     const entry = this.fds.get(fd)
     if (typeof entry === `undefined`) throw EBADF(`read`)
     throw new Error(`Unimplemented`)
   }
-
   async closePromise(fd) {
     return this.closeSync(fd)
   }
-
   closeSync(fd) {
     const entry = this.fds.get(fd)
     if (typeof entry === `undefined`) throw EBADF(`read`)
     this.fds.delete(fd)
   }
-
   createReadStream(p, { encoding } = {}) {
     if (p === null) throw new Error(`Unimplemented`)
     const fd = this.openSync(p, `r`)
@@ -24666,7 +25584,6 @@ class ZipFS extends BasePortableFakeFS {
     })
     return stream$1
   }
-
   createWriteStream(p, { encoding } = {}) {
     if (this.readOnly) throw EROFS(`open '${p}'`)
     if (p === null) throw new Error(`Unimplemented`)
@@ -24708,22 +25625,18 @@ class ZipFS extends BasePortableFakeFS {
     })
     return stream$1
   }
-
   async realpathPromise(p) {
     return this.realpathSync(p)
   }
-
   realpathSync(p) {
     const resolvedP = this.resolveFilename(`lstat '${p}'`, p)
     if (!this.entries.has(resolvedP) && !this.listings.has(resolvedP))
       throw ENOENT(`lstat '${p}'`)
     return resolvedP
   }
-
   async existsPromise(p) {
     return this.existsSync(p)
   }
-
   existsSync(p) {
     if (!this.ready) throw EBUSY(`archive closed, existsSync '${p}'`)
     if (this.symlinkCount === 0) {
@@ -24739,11 +25652,9 @@ class ZipFS extends BasePortableFakeFS {
     if (resolvedP === void 0) return false
     return this.entries.has(resolvedP) || this.listings.has(resolvedP)
   }
-
   async accessPromise(p, mode) {
     return this.accessSync(p, mode)
   }
-
   accessSync(p, mode = fs.constants.F_OK) {
     const resolvedP = this.resolveFilename(`access '${p}'`, p)
     if (!this.entries.has(resolvedP) && !this.listings.has(resolvedP))
@@ -24752,12 +25663,10 @@ class ZipFS extends BasePortableFakeFS {
       throw EROFS(`access '${p}'`)
     }
   }
-
   async statPromise(p, opts = { bigint: false }) {
     if (opts.bigint) return this.statSync(p, { bigint: true })
     return this.statSync(p)
   }
-
   statSync(p, opts = { bigint: false, throwIfNoEntry: true }) {
     const resolvedP = this.resolveFilename(
       `stat '${p}'`,
@@ -24774,11 +25683,9 @@ class ZipFS extends BasePortableFakeFS {
       throw ENOTDIR(`stat '${p}'`)
     return this.statImpl(`stat '${p}'`, resolvedP, opts)
   }
-
   async fstatPromise(fd, opts) {
     return this.fstatSync(fd, opts)
   }
-
   fstatSync(fd, opts) {
     const entry = this.fds.get(fd)
     if (typeof entry === `undefined`) throw EBADF(`fstatSync`)
@@ -24790,12 +25697,10 @@ class ZipFS extends BasePortableFakeFS {
       throw ENOTDIR(`stat '${p}'`)
     return this.statImpl(`fstat '${p}'`, resolvedP, opts)
   }
-
   async lstatPromise(p, opts = { bigint: false }) {
     if (opts.bigint) return this.lstatSync(p, { bigint: true })
     return this.lstatSync(p)
   }
-
   lstatSync(p, opts = { bigint: false, throwIfNoEntry: true }) {
     const resolvedP = this.resolveFilename(
       `lstat '${p}'`,
@@ -24812,7 +25717,6 @@ class ZipFS extends BasePortableFakeFS {
       throw ENOTDIR(`lstat '${p}'`)
     return this.statImpl(`lstat '${p}'`, resolvedP, opts)
   }
-
   statImpl(reason, p, opts = {}) {
     const entry = this.entries.get(p)
     if (typeof entry !== `undefined`) {
@@ -24900,7 +25804,6 @@ class ZipFS extends BasePortableFakeFS {
     }
     throw new Error(`Unreachable`)
   }
-
   getUnixMode(index, defaultMode) {
     const rc = this.libzip.file.getExternalAttributes(
       this.zip,
@@ -24915,7 +25818,6 @@ class ZipFS extends BasePortableFakeFS {
     if (opsys !== this.libzip.ZIP_OPSYS_UNIX) return defaultMode
     return this.libzip.getValue(this.libzip.uint32S, `i32`) >>> 16
   }
-
   registerListing(p) {
     const existingListing = this.listings.get(p)
     if (existingListing) return existingListing
@@ -24925,19 +25827,16 @@ class ZipFS extends BasePortableFakeFS {
     this.listings.set(p, newListing)
     return newListing
   }
-
   registerEntry(p, index) {
     const parentListing = this.registerListing(ppath.dirname(p))
     parentListing.add(ppath.basename(p))
     this.entries.set(p, index)
   }
-
   unregisterListing(p) {
     this.listings.delete(p)
     const parentListing = this.listings.get(ppath.dirname(p))
     parentListing?.delete(ppath.basename(p))
   }
-
   unregisterEntry(p) {
     this.unregisterListing(p)
     const entry = this.entries.get(p)
@@ -24948,7 +25847,6 @@ class ZipFS extends BasePortableFakeFS {
       this.symlinkCount--
     }
   }
-
   deleteEntry(p, index) {
     this.unregisterEntry(p)
     const rc = this.libzip.delete(this.zip, index)
@@ -25008,7 +25906,6 @@ class ZipFS extends BasePortableFakeFS {
     }
     return resolvedP
   }
-
   allocateBuffer(content) {
     if (!Buffer.isBuffer(content)) content = Buffer.from(content)
     const buffer = this.libzip.malloc(content.byteLength)
@@ -25021,7 +25918,6 @@ class ZipFS extends BasePortableFakeFS {
     heap.set(content)
     return { buffer, byteLength: content.byteLength }
   }
-
   allocateUnattachedSource(content) {
     const error = this.libzip.struct.errorS()
     const { buffer, byteLength } = this.allocateBuffer(content)
@@ -25038,7 +25934,6 @@ class ZipFS extends BasePortableFakeFS {
     }
     return source
   }
-
   allocateSource(content) {
     const { buffer, byteLength } = this.allocateBuffer(content)
     const source = this.libzip.source.fromBuffer(
@@ -25054,7 +25949,6 @@ class ZipFS extends BasePortableFakeFS {
     }
     return source
   }
-
   setFileSource(p, content) {
     const buffer = Buffer.isBuffer(content) ? content : Buffer.from(content)
     const target = ppath.relative(PortablePath.root, p)
@@ -25091,7 +25985,6 @@ class ZipFS extends BasePortableFakeFS {
       throw error
     }
   }
-
   isSymbolicLink(index) {
     if (this.symlinkCount === 0) return false
     const attrs = this.libzip.file.getExternalAttributes(
@@ -25108,7 +26001,6 @@ class ZipFS extends BasePortableFakeFS {
     const attributes = this.libzip.getValue(this.libzip.uint32S, `i32`) >>> 16
     return (attributes & fs.constants.S_IFMT) === fs.constants.S_IFLNK
   }
-
   getFileSource(index, opts = { asyncDecompress: false }) {
     const cachedFileSource = this.fileSources.get(index)
     if (typeof cachedFileSource !== `undefined`) return cachedFileSource
@@ -25160,19 +26052,15 @@ class ZipFS extends BasePortableFakeFS {
       this.libzip.free(buffer)
     }
   }
-
   async fchmodPromise(fd, mask) {
     return this.chmodPromise(this.fdToPath(fd, `fchmod`), mask)
   }
-
   fchmodSync(fd, mask) {
     return this.chmodSync(this.fdToPath(fd, `fchmodSync`), mask)
   }
-
   async chmodPromise(p, mask) {
     return this.chmodSync(p, mask)
   }
-
   chmodSync(p, mask) {
     if (this.readOnly) throw EROFS(`chmod '${p}'`)
     mask &= 493
@@ -25196,31 +26084,24 @@ class ZipFS extends BasePortableFakeFS {
       throw this.makeLibzipError(this.libzip.getError(this.zip))
     }
   }
-
   async fchownPromise(fd, uid, gid) {
     return this.chownPromise(this.fdToPath(fd, `fchown`), uid, gid)
   }
-
   fchownSync(fd, uid, gid) {
     return this.chownSync(this.fdToPath(fd, `fchownSync`), uid, gid)
   }
-
   async chownPromise(p, uid, gid) {
     return this.chownSync(p, uid, gid)
   }
-
   chownSync(p, uid, gid) {
     throw new Error(`Unimplemented`)
   }
-
   async renamePromise(oldP, newP) {
     return this.renameSync(oldP, newP)
   }
-
   renameSync(oldP, newP) {
     throw new Error(`Unimplemented`)
   }
-
   async copyFilePromise(sourceP, destP, flags) {
     const { indexSource, indexDest, resolvedDestP } = this.prepareCopyFile(
       sourceP,
@@ -25235,7 +26116,6 @@ class ZipFS extends BasePortableFakeFS {
       this.registerEntry(resolvedDestP, newIndex)
     }
   }
-
   copyFileSync(sourceP, destP, flags = 0) {
     const { indexSource, indexDest, resolvedDestP } = this.prepareCopyFile(
       sourceP,
@@ -25248,7 +26128,6 @@ class ZipFS extends BasePortableFakeFS {
       this.registerEntry(resolvedDestP, newIndex)
     }
   }
-
   prepareCopyFile(sourceP, destP, flags = 0) {
     if (this.readOnly) throw EROFS(`copyfile '${sourceP} -> '${destP}'`)
     if ((flags & fs.constants.COPYFILE_FICLONE_FORCE) !== 0)
@@ -25281,7 +26160,6 @@ class ZipFS extends BasePortableFakeFS {
       indexDest,
     }
   }
-
   async appendFilePromise(p, content, opts) {
     if (this.readOnly) throw EROFS(`open '${p}'`)
     if (typeof opts === `undefined`) opts = { flag: `a` }
@@ -25289,7 +26167,6 @@ class ZipFS extends BasePortableFakeFS {
     else if (typeof opts.flag === `undefined`) opts = { flag: `a`, ...opts }
     return this.writeFilePromise(p, content, opts)
   }
-
   appendFileSync(p, content, opts = {}) {
     if (this.readOnly) throw EROFS(`open '${p}'`)
     if (typeof opts === `undefined`) opts = { flag: `a` }
@@ -25297,13 +26174,11 @@ class ZipFS extends BasePortableFakeFS {
     else if (typeof opts.flag === `undefined`) opts = { flag: `a`, ...opts }
     return this.writeFileSync(p, content, opts)
   }
-
   fdToPath(fd, reason) {
     const path = this.fds.get(fd)?.p
     if (typeof path === `undefined`) throw EBADF(reason)
     return path
   }
-
   async writeFilePromise(p, content, opts) {
     const { encoding, mode, index, resolvedP } = this.prepareWriteFile(p, opts)
     if (
@@ -25323,7 +26198,6 @@ class ZipFS extends BasePortableFakeFS {
       await this.chmodPromise(resolvedP, mode)
     }
   }
-
   writeFileSync(p, content, opts) {
     const { encoding, mode, index, resolvedP } = this.prepareWriteFile(p, opts)
     if (
@@ -25340,7 +26214,6 @@ class ZipFS extends BasePortableFakeFS {
       this.chmodSync(resolvedP, mode)
     }
   }
-
   prepareWriteFile(p, opts) {
     if (typeof p === `number`) p = this.fdToPath(p, `read`)
     if (this.readOnly) throw EROFS(`open '${p}'`)
@@ -25361,11 +26234,9 @@ class ZipFS extends BasePortableFakeFS {
       index,
     }
   }
-
   async unlinkPromise(p) {
     return this.unlinkSync(p)
   }
-
   unlinkSync(p) {
     if (this.readOnly) throw EROFS(`unlink '${p}'`)
     const resolvedP = this.resolveFilename(`unlink '${p}'`, p)
@@ -25374,27 +26245,22 @@ class ZipFS extends BasePortableFakeFS {
     if (typeof index === `undefined`) throw EINVAL(`unlink '${p}'`)
     this.deleteEntry(resolvedP, index)
   }
-
   async utimesPromise(p, atime, mtime) {
     return this.utimesSync(p, atime, mtime)
   }
-
   utimesSync(p, atime, mtime) {
     if (this.readOnly) throw EROFS(`utimes '${p}'`)
     const resolvedP = this.resolveFilename(`utimes '${p}'`, p)
     this.utimesImpl(resolvedP, mtime)
   }
-
   async lutimesPromise(p, atime, mtime) {
     return this.lutimesSync(p, atime, mtime)
   }
-
   lutimesSync(p, atime, mtime) {
     if (this.readOnly) throw EROFS(`lutimes '${p}'`)
     const resolvedP = this.resolveFilename(`utimes '${p}'`, p, false)
     this.utimesImpl(resolvedP, mtime)
   }
-
   utimesImpl(resolvedP, mtime) {
     if (this.listings.has(resolvedP)) {
       if (!this.entries.has(resolvedP)) this.hydrateDirectory(resolvedP)
@@ -25412,11 +26278,9 @@ class ZipFS extends BasePortableFakeFS {
       throw this.makeLibzipError(this.libzip.getError(this.zip))
     }
   }
-
   async mkdirPromise(p, opts) {
     return this.mkdirSync(p, opts)
   }
-
   mkdirSync(p, { mode = 493, recursive = false } = {}) {
     if (recursive) return this.mkdirpSync(p, { chmod: mode })
     if (this.readOnly) throw EROFS(`mkdir '${p}'`)
@@ -25427,11 +26291,9 @@ class ZipFS extends BasePortableFakeFS {
     this.chmodSync(resolvedP, mode)
     return void 0
   }
-
   async rmdirPromise(p, opts) {
     return this.rmdirSync(p, opts)
   }
-
   rmdirSync(p, { recursive = false } = {}) {
     if (this.readOnly) throw EROFS(`rmdir '${p}'`)
     if (recursive) {
@@ -25446,11 +26308,9 @@ class ZipFS extends BasePortableFakeFS {
     if (typeof index === `undefined`) throw EINVAL(`rmdir '${p}'`)
     this.deleteEntry(p, index)
   }
-
   async rmPromise(p, opts) {
     return this.rmSync(p, opts)
   }
-
   rmSync(p, { recursive = false } = {}) {
     if (this.readOnly) throw EROFS(`rm '${p}'`)
     if (recursive) {
@@ -25465,7 +26325,6 @@ class ZipFS extends BasePortableFakeFS {
     if (typeof index === `undefined`) throw EINVAL(`rm '${p}'`)
     this.deleteEntry(p, index)
   }
-
   hydrateDirectory(resolvedP) {
     const index = this.libzip.dir.add(
       this.zip,
@@ -25476,19 +26335,15 @@ class ZipFS extends BasePortableFakeFS {
     this.registerEntry(resolvedP, index)
     return index
   }
-
   async linkPromise(existingP, newP) {
     return this.linkSync(existingP, newP)
   }
-
   linkSync(existingP, newP) {
     throw EOPNOTSUPP(`link '${existingP}' -> '${newP}'`)
   }
-
   async symlinkPromise(target, p) {
     return this.symlinkSync(target, p)
   }
-
   symlinkSync(target, p) {
     if (this.readOnly) throw EROFS(`symlink '${target}' -> '${p}'`)
     const resolvedP = this.resolveFilename(`symlink '${target}' -> '${p}'`, p)
@@ -25509,21 +26364,18 @@ class ZipFS extends BasePortableFakeFS {
     if (rc === -1) throw this.makeLibzipError(this.libzip.getError(this.zip))
     this.symlinkCount += 1
   }
-
   async readFilePromise(p, encoding) {
     if (typeof encoding === `object`)
       encoding = encoding ? encoding.encoding : void 0
     const data = await this.readFileBuffer(p, { asyncDecompress: true })
     return encoding ? data.toString(encoding) : data
   }
-
   readFileSync(p, encoding) {
     if (typeof encoding === `object`)
       encoding = encoding ? encoding.encoding : void 0
     const data = this.readFileBuffer(p)
     return encoding ? data.toString(encoding) : data
   }
-
   readFileBuffer(p, opts = { asyncDecompress: false }) {
     if (typeof p === `number`) p = this.fdToPath(p, `read`)
     const resolvedP = this.resolveFilename(`open '${p}'`, p)
@@ -25536,11 +26388,9 @@ class ZipFS extends BasePortableFakeFS {
     if (entry === void 0) throw new Error(`Unreachable`)
     return this.getFileSource(entry, opts)
   }
-
   async readdirPromise(p, opts) {
     return this.readdirSync(p, opts)
   }
-
   readdirSync(p, opts) {
     const resolvedP = this.resolveFilename(`scandir '${p}'`, p)
     if (!this.entries.has(resolvedP) && !this.listings.has(resolvedP))
@@ -25594,19 +26444,16 @@ class ZipFS extends BasePortableFakeFS {
       return [...directoryListing]
     }
   }
-
   async readlinkPromise(p) {
     const entry = this.prepareReadlink(p)
     return (
       await this.getFileSource(entry, { asyncDecompress: true })
     ).toString()
   }
-
   readlinkSync(p) {
     const entry = this.prepareReadlink(p)
     return this.getFileSource(entry).toString()
   }
-
   prepareReadlink(p) {
     const resolvedP = this.resolveFilename(`readlink '${p}'`, p, false)
     if (!this.entries.has(resolvedP) && !this.listings.has(resolvedP))
@@ -25619,7 +26466,6 @@ class ZipFS extends BasePortableFakeFS {
     if (!this.isSymbolicLink(entry)) throw EINVAL(`readlink '${p}'`)
     return entry
   }
-
   async truncatePromise(p, len = 0) {
     const resolvedP = this.resolveFilename(`open '${p}'`, p)
     const index = this.entries.get(resolvedP)
@@ -25629,7 +26475,6 @@ class ZipFS extends BasePortableFakeFS {
     source.copy(truncated)
     return await this.writeFilePromise(p, truncated)
   }
-
   truncateSync(p, len = 0) {
     const resolvedP = this.resolveFilename(`open '${p}'`, p)
     const index = this.entries.get(resolvedP)
@@ -25639,15 +26484,12 @@ class ZipFS extends BasePortableFakeFS {
     source.copy(truncated)
     return this.writeFileSync(p, truncated)
   }
-
   async ftruncatePromise(fd, len) {
     return this.truncatePromise(this.fdToPath(fd, `ftruncate`), len)
   }
-
   ftruncateSync(fd, len) {
     return this.truncateSync(this.fdToPath(fd, `ftruncateSync`), len)
   }
-
   watch(p, a, b) {
     let persistent
     switch (typeof a) {
@@ -25677,12 +26519,10 @@ class ZipFS extends BasePortableFakeFS {
       },
     }
   }
-
   watchFile(p, a, b) {
     const resolvedP = ppath.resolve(PortablePath.root, p)
     return watchFile(this, resolvedP, a, b)
   }
-
   unwatchFile(p, cb) {
     const resolvedP = ppath.resolve(PortablePath.root, p)
     return unwatchFile(this, resolvedP, cb)
@@ -25715,7 +26555,6 @@ const MODULE_NOT_FOUND_ERRORS = /* @__PURE__ */ new Set([
   'QUALIFIED_PATH_RESOLUTION_FAILED' /* QUALIFIED_PATH_RESOLUTION_FAILED */,
   'UNDECLARED_DEPENDENCY' /* UNDECLARED_DEPENDENCY */,
 ])
-
 function makeError(pnpCode, message, data = {}, code) {
   code ??= MODULE_NOT_FOUND_ERRORS.has(pnpCode) ? `MODULE_NOT_FOUND` : pnpCode
   const propertySpec = {
@@ -25738,7 +26577,6 @@ function makeError(pnpCode, message, data = {}, code) {
     },
   })
 }
-
 function getIssuerModule(parent) {
   let issuer = parent
   while (
@@ -25748,7 +26586,6 @@ function getIssuerModule(parent) {
     issuer = issuer.parent
   return issuer || null
 }
-
 function getPathForDisplay(p) {
   return npath.normalize(npath.fromPortablePath(p))
 }
@@ -25776,13 +26613,11 @@ function readPackageScope(checkPath) {
   } while (separatorIndex > rootSeparatorIndex)
   return false
 }
-
 function readPackage(requestPath) {
   const jsonPath = npath.resolve(requestPath, `package.json`)
   if (!fs__default.default.existsSync(jsonPath)) return null
   return JSON.parse(fs__default.default.readFileSync(jsonPath, `utf8`))
 }
-
 function ERR_REQUIRE_ESM(filename, parentPath = null) {
   const basename =
     parentPath &&
@@ -25796,7 +26631,6 @@ Instead change the require of ${basename} in ${parentPath} to a dynamic import()
   err.code = `ERR_REQUIRE_ESM`
   return err
 }
-
 function reportRequiredFilesToWatchMode(files) {
   if (process.env.WATCH_REPORT_DEPENDENCIES && process.send) {
     files = files.map((filename) =>
@@ -25830,7 +26664,6 @@ function applyPatch(pnpapi, opts) {
       ? apiEntry.instance
       : null
   }
-
   function getRequireStack(parent) {
     const requireStack = []
     for (let cursor = parent; cursor; cursor = cursor.parent)
@@ -25848,7 +26681,6 @@ function applyPatch(pnpapi, opts) {
     }
     return originalModuleLoad.call(require$$0.Module, request, parent, isMain)
   }
-
   function getIssuerSpecsFromPaths(paths) {
     return paths.map((path) => ({
       apiPath: opts.manager.findApiPathFor(path),
@@ -25856,7 +26688,6 @@ function applyPatch(pnpapi, opts) {
       module: null,
     }))
   }
-
   function getIssuerSpecsFromModule(module) {
     if (
       module &&
@@ -25887,7 +26718,6 @@ function applyPatch(pnpapi, opts) {
       return [{ apiPath, path, module }]
     }
   }
-
   function makeFakeParent(path) {
     const fakeParent = new require$$0.Module(``)
     const fakeFilePath = npath.join(path, `[file]`)
@@ -26208,7 +27038,6 @@ function createErrorType(code, messageCreator, errorType) {
     }
   }
 }
-
 const ERR_PACKAGE_IMPORT_NOT_DEFINED = createErrorType(
   `ERR_PACKAGE_IMPORT_NOT_DEFINED`,
   (specifier, packagePath, base) => {
@@ -26270,7 +27099,6 @@ function filterOwnProperties(source, keys) {
 }
 
 const packageJSONCache = new SafeMap()
-
 function getPackageConfig(path, specifier, base, readFileSyncFn) {
   const existing = packageJSONCache.get(path)
   if (existing !== void 0) {
@@ -26334,7 +27162,6 @@ function getPackageConfig(path, specifier, base, readFileSyncFn) {
   packageJSONCache.set(path, packageConfig)
   return packageConfig
 }
-
 function getPackageScopeConfig(resolved, readFileSyncFn) {
   let packageJSONUrl = new URL('./package.json', resolved)
   while (true) {
@@ -26380,7 +27207,6 @@ function throwImportNotDefined(specifier, packageJSONUrl, base) {
     url.fileURLToPath(base),
   )
 }
-
 function throwInvalidSubpath(subpath, packageJSONUrl, internal, base) {
   const reason = `request is not a valid subpath for the "${internal ? 'imports' : 'exports'}" resolution of ${url.fileURLToPath(packageJSONUrl)}`
   throw new ERR_INVALID_MODULE_SPECIFIER(
@@ -26473,7 +27299,6 @@ function resolvePackageTargetString(
   }
   return new URL(subpath, resolved)
 }
-
 function isArrayIndex(key) {
   const keyNum = +key
   if (`${keyNum}` !== key) return false
@@ -26579,7 +27404,6 @@ function resolvePackageTarget(
     base,
   )
 }
-
 function patternKeyCompare(a, b) {
   const aPatternIndex = StringPrototypeIndexOf(a, '*')
   const bPatternIndex = StringPrototypeIndexOf(b, '*')
@@ -26593,7 +27417,6 @@ function patternKeyCompare(a, b) {
   if (b.length > a.length) return 1
   return 0
 }
-
 function isConditionalExportsMainSugar(exports, packageJSONUrl, base) {
   if (typeof exports === 'string' || ArrayIsArray(exports)) return true
   if (typeof exports !== 'object' || exports === null) return false
@@ -26615,7 +27438,6 @@ function isConditionalExportsMainSugar(exports, packageJSONUrl, base) {
   }
   return isConditionalSugar
 }
-
 function throwExportsNotFound(subpath, packageJSONUrl, base) {
   throw new ERR_PACKAGE_PATH_NOT_EXPORTED(
     url.fileURLToPath(new URL('.', packageJSONUrl)),
@@ -26625,7 +27447,6 @@ function throwExportsNotFound(subpath, packageJSONUrl, base) {
 }
 
 const emittedPackageWarnings = /* @__PURE__ */ new Set()
-
 function emitTrailingSlashPatternDeprecation(match, pjsonUrl, base) {
   const pjsonPath = url.fileURLToPath(pjsonUrl)
   if (emittedPackageWarnings.has(pjsonPath + '|' + match)) return
@@ -26636,7 +27457,6 @@ function emitTrailingSlashPatternDeprecation(match, pjsonUrl, base) {
     'DEP0155',
   )
 }
-
 function packageExportsResolve({
   packageJSONUrl,
   packageSubpath,
@@ -26721,7 +27541,6 @@ function packageExportsResolve({
   }
   throwExportsNotFound(packageSubpath, packageJSONUrl, base)
 }
-
 function packageImportsResolve({ name, base, conditions, readFileSyncFn }) {
   if (
     name === '#' ||
@@ -27036,7 +27855,6 @@ function getOptionValue(opt) {
 }
 
 let options
-
 function parseOptions() {
   if (!options) {
     options = {
@@ -27046,7 +27864,6 @@ function parseOptions() {
     }
   }
 }
-
 function parseArgv(argv) {
   return arg_1(
     {
@@ -27059,14 +27876,12 @@ function parseArgv(argv) {
     },
   )
 }
-
 function getNodeOptionsEnvArgv() {
   const errors = []
   const envArgv = ParseNodeOptionsEnvVar(process.env.NODE_OPTIONS || '', errors)
   if (errors.length !== 0);
   return envArgv
 }
-
 function ParseNodeOptionsEnvVar(node_options, errors) {
   const env_argv = []
   let is_in_string = false
@@ -27132,7 +27947,6 @@ function makeApi(runtimeState, opts) {
   }
   const { ignorePattern, packageRegistry, packageLocatorsByLocations } =
     runtimeState
-
   function makeLogEntry(name, args) {
     return {
       fn: name,
@@ -27141,7 +27955,6 @@ function makeApi(runtimeState, opts) {
       result: null,
     }
   }
-
   function trace(entry) {
     const colors = process.stderr?.hasColors?.() ?? process.stdout.isTTY
     const c = (n, str) => `\x1B[${n}m${str}\x1B[0m`
@@ -27171,7 +27984,6 @@ function makeApi(runtimeState, opts) {
     }
     console.error()
   }
-
   function maybeLog(name, fn) {
     if (opts.allowDebug === false) return fn
     if (Number.isFinite(debugLevel)) {
@@ -27201,7 +28013,6 @@ function makeApi(runtimeState, opts) {
     }
     return fn
   }
-
   function getPackageInformationSafe(packageLocator) {
     const packageInformation = getPackageInformation(packageLocator)
     if (!packageInformation) {
@@ -27212,7 +28023,6 @@ function makeApi(runtimeState, opts) {
     }
     return packageInformation
   }
-
   function isDependencyTreeRoot(packageLocator) {
     if (packageLocator.name === null) return true
     for (const dependencyTreeRoot of runtimeState.dependencyTreeRoots)
@@ -27223,7 +28033,6 @@ function makeApi(runtimeState, opts) {
         return true
     return false
   }
-
   const defaultExportsConditions = /* @__PURE__ */ new Set([
     `node`,
     `require`,
@@ -27345,14 +28154,12 @@ function makeApi(runtimeState, opts) {
     }
     return null
   }
-
   function makeFakeModule(path) {
     const fakeModule = new require$$0.Module(path, null)
     fakeModule.filename = path
     fakeModule.paths = require$$0.Module._nodeModulePaths(path)
     return fakeModule
   }
-
   function callNativeResolution(request, issuer) {
     if (issuer.endsWith(`/`)) issuer = ppath.join(issuer, `internal.js`)
     return require$$0.Module._resolveFilename(
@@ -27362,7 +28169,6 @@ function makeApi(runtimeState, opts) {
       { plugnplay: false },
     )
   }
-
   function isPathIgnored(path) {
     if (ignorePattern === null) return false
     const subPath = ppath.contains(runtimeState.basePath, path)
@@ -27376,7 +28182,6 @@ function makeApi(runtimeState, opts) {
 
   const VERSIONS = { std: 3, resolveVirtual: 1, getAllLocators: 1 }
   const topLevel = topLevelLocator
-
   function getPackageInformation({ name, reference }) {
     const packageInformationStore = packageRegistry.get(name)
     if (!packageInformationStore) return null
@@ -27384,7 +28189,6 @@ function makeApi(runtimeState, opts) {
     if (!packageInformation) return null
     return packageInformation
   }
-
   function findPackageDependents({ name, reference }) {
     const dependents = []
     for (const [dependentName, packageInformationStore] of packageRegistry) {
@@ -27406,7 +28210,6 @@ function makeApi(runtimeState, opts) {
     }
     return dependents
   }
-
   function findBrokenPeerDependencies(dependency, initialPackage) {
     const brokenPackages = /* @__PURE__ */ new Map()
     const alreadyVisited = /* @__PURE__ */ new Set()
@@ -27464,7 +28267,6 @@ function makeApi(runtimeState, opts) {
     } while (relativeLocation !== ``)
     return null
   }
-
   function tryReadFile(filePath) {
     try {
       return opts.fakeFs.readFileSync(npath.toPortablePath(filePath), `utf8`)
@@ -27862,7 +28664,6 @@ ${candidates
       )
     }
   }
-
   function resolvePrivateRequest(request, issuer, opts2) {
     if (!issuer)
       throw new Error(
@@ -27887,7 +28688,6 @@ ${candidates
       return resolveRequest(resolved, issuer, opts2)
     }
   }
-
   function resolveRequest(request, issuer, opts2 = {}) {
     try {
       if (request.startsWith(`#`))
@@ -27920,13 +28720,11 @@ ${candidates
       throw error
     }
   }
-
   function resolveVirtual(request) {
     const normalized = ppath.normalize(request)
     const resolved = VirtualFS.resolveVirtual(normalized)
     return resolved !== normalized ? resolved : null
   }
-
   return {
     VERSIONS,
     topLevel,
@@ -28019,14 +28817,12 @@ function makeManager(pnpapi, opts) {
       },
     ],
   ])
-
   function loadApiInstance(pnpApiPath) {
     const nativePath = npath.fromPortablePath(pnpApiPath)
     const module = new require$$0.Module(nativePath, null)
     module.load(nativePath)
     return module.exports
   }
-
   function refreshApiEntry(pnpApiPath, apiEntry) {
     const timeNow = Date.now()
     if (timeNow - apiEntry.lastRefreshCheck < 500) return
@@ -28040,7 +28836,6 @@ function makeManager(pnpapi, opts) {
       apiEntry.instance = loadApiInstance(pnpApiPath)
     }
   }
-
   function getApiEntry(pnpApiPath, refresh = false) {
     let apiEntry = apiMetadata.get(pnpApiPath)
     if (typeof apiEntry !== `undefined`) {
@@ -28061,7 +28856,6 @@ function makeManager(pnpapi, opts) {
   }
 
   const findApiPathCache = /* @__PURE__ */ new Map()
-
   function addToCacheAndReturn(start, end, target) {
     if (target !== null) {
       target = VirtualFS.resolveVirtual(target)
@@ -28076,7 +28870,6 @@ function makeManager(pnpapi, opts) {
     } while (curr !== end)
     return target
   }
-
   function findApiPathFor(modulePath) {
     let bestCandidate = null
     for (const [apiPath, apiEntry] of apiMetadata) {
@@ -28146,7 +28939,6 @@ ${controlSegment}
   }
 
   const moduleToApiPathCache = /* @__PURE__ */ new WeakMap()
-
   function getApiPathFromParent(parent) {
     if (parent == null) return initialApiPath
     let apiPath = moduleToApiPathCache.get(parent)
@@ -28155,7 +28947,6 @@ ${controlSegment}
     moduleToApiPathCache.set(parent, apiPath)
     return apiPath
   }
-
   return {
     getApiPathFromParent,
     findApiPathFor,
@@ -28174,18 +28965,14 @@ const defaultFsLayer = new VirtualFS({
     readOnlyArchives: true,
   }),
 })
-
 class DynamicFS extends ProxiedFS {
   baseFs = defaultFsLayer
-
   constructor() {
     super(ppath)
   }
-
   mapToBase(p) {
     return p
   }
-
   mapFromBase(p) {
     return p
   }
