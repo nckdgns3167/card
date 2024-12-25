@@ -11,7 +11,7 @@ export const colorPalette = css`
   }
 `
 
-const colors = {
+export const colors = {
   red: 'var(--red)',
   blue: 'var(--blue)',
   green: 'var(--green)',

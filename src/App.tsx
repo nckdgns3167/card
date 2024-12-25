@@ -4,33 +4,31 @@ import './App.css'
 import { css } from '@emotion/react'
 import styled from '@emotion/styled'
 
-const containerStyles = css`
-  background-color: pink;
-`
-
-const Button = styled.button`
-  width: 200px;
-  height:;
-`
+import Text from '@shared/Text'
+import Button from '@shared/Button'
 
 function App() {
   return (
-    <div className="App" css={containerStyles}>
-      <Button>s스타일버튼</Button>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Text typography="t1" display="block">
+        Hello World!
+      </Text>
+      <Text typography="t2">Hello World!</Text>
+      <Text typography="t3">Hello World!</Text>
+      <Text typography="t4">Hello World!</Text>
+      <Text>Hello World!</Text>
+      <Text typography="t6">Hello World!</Text>
+
+      <div style={{ height: 10, width: '100%', background: '#efefef' }}></div>
+
+      <Button>안녕하세요</Button>
+      <Button color="success">안녕하세요</Button>
+      <Button color="error">안녕하세요</Button>
+      <Button weak>안녕하세요</Button>
+      <Button full>안녕하세요</Button>
+      <Button color="error" disabled>
+        안녕하세요
+      </Button>
     </div>
   )
 }
