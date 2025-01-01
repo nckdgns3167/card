@@ -37,7 +37,7 @@ const Button = styled.button<ButtonProps>(
     disabled
       ? css`
           opacity: 0.25;
-          curosr: initial;
+          cursor: initial;
         `
       : undefined,
 )
