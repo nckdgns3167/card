@@ -1,6 +1,5 @@
-import React, { CSSProperties } from 'react'
+import { CSSProperties } from 'react'
 import styled from '@emotion/styled'
-import { colors } from '@styles/colorPalette'
 
 interface FlexProps {
   align?: CSSProperties['alignItems']
