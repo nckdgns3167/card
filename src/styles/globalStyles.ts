@@ -152,4 +152,9 @@ export default css`
     font: inherit;
     line-height: normal;
   }
+
+  a {
+    color: inherit;
+    text-decoration: inherit;
+  }
 `
