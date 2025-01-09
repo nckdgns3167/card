@@ -5,6 +5,7 @@ import { useInfiniteQuery } from 'react-query'
 import { flatten } from 'lodash'
 import InfiniteScroll from 'react-infinite-scroll-component'
 import Badge from '@shared/Badge'
+import { useNavigate } from 'react-router-dom'
 
 const CardList = () => {
   const {
@@ -25,6 +26,8 @@ const CardList = () => {
       },
     },
   )
+
+  const navigate = useNavigate()
 
   // console.log('data', data)
   // console.log('hasNextPage', hasNextPage)
@@ -57,6 +60,9 @@ const CardList = () => {
               }
               right={card.payback && <Badge label={card.payback} />}
               withArrow
+              onClick={() => {
+                navigate(`/card/${card.id}`)
+              }}
             />
           ))}
         </ul>
