@@ -46,6 +46,7 @@ const CardList = () => {
         hasMore={hasNextPage}
         loader={<></>}
         next={loadMore}
+        scrollThreshold="100px"
       >
         <ul>
           {cards.map((card, index) => (
