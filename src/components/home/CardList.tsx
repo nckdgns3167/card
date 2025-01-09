@@ -4,6 +4,7 @@ import { getCards } from '@remote/card'
 import { useInfiniteQuery } from 'react-query'
 import { flatten } from 'lodash'
 import InfiniteScroll from 'react-infinite-scroll-component'
+import Badge from '@shared/Badge'
 
 const CardList = () => {
   const {
@@ -46,16 +47,18 @@ const CardList = () => {
         loader={<></>}
         next={loadMore}
       >
-        {cards.map((card, index) => (
-          <ListRow
-            key={card.id}
-            contents={
-              <ListRow.Texts title={`${index + 1}위`} subTitle={card.name} />
-            }
-            right={card.payback && <div>{card.payback}</div>}
-            withArrow
-          />
-        ))}
+        <ul>
+          {cards.map((card, index) => (
+            <ListRow
+              key={card.id}
+              contents={
+                <ListRow.Texts title={`${index + 1}위`} subTitle={card.name} />
+              }
+              right={card.payback && <Badge label={card.payback} />}
+              withArrow
+            />
+          ))}
+        </ul>
       </InfiniteScroll>
     </div>
   )
