@@ -10,16 +10,27 @@ import Button from '@shared/Button'
 interface FixedBottomButtonProps {
   label: string
   onClick: () => void
+  disabled?: boolean
 }
 
-const FixedBottomButton = ({ label, onClick }: FixedBottomButtonProps) => {
+const FixedBottomButton = ({
+  label,
+  onClick,
+  disabled,
+}: FixedBottomButtonProps) => {
   const $portalRoot = document.getElementById('root-portal')
 
   if ($portalRoot == null) return null
 
   return createPortal(
     <Container>
-      <Button size="medium" css={buttonStyle} full onClick={onClick}>
+      <Button
+        size="medium"
+        css={buttonStyle}
+        full
+        onClick={onClick}
+        disabled={disabled}
+      >
         {label}
       </Button>
     </Container>,
