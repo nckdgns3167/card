@@ -5,6 +5,7 @@ import HomePage from '@pages/Home'
 import TestPage from '@pages/Test'
 import CardPage from '@pages/Card'
 import Navbar from '@shared/Navbar'
+import SignupPage from '@pages/Signup'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" Component={HomePage} />
+        <Route path="/signup" Component={SignupPage} />
         <Route path="/card/:id" Component={CardPage} />
         <Route path="/test" Component={TestPage} />
       </Routes>
